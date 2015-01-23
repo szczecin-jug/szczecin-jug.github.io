@@ -68,7 +68,8 @@ a {
 }
 
 .index {
-    margin:0 5em;
+//    margin:0 5em;
+    margin: 0;
     
     > div{
         display:table-cell;
@@ -173,13 +174,30 @@ a {
     
 }
 
+.blog-sponsors {
+    @extend .blog-cover;
+    background-color: white;
+    height: 260px;
+
+    section {
+        background-color: white;
+        background-image: none;
+
+        h2 {
+            color: $accent;
+            font: $font;
+        }
+    }
+}
+
 .pagination {
     text-align:center;
 }
 
 .site-footer {
     padding:5em 0;
-    margin:4em 0 0 0;
+//    margin:4em 0 0 0;
+    margin: 0;
     background:whitesmoke;;
     color:#aaa;
     font-size:0.8em;

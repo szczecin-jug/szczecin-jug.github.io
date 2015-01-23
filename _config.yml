@@ -6,16 +6,16 @@ inc:
   logo:         szjug-logo3.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Szczecin Java User Group
+  url:          http://szjug.pl/
+  facebook:     szjug
+  twitter:      szjug
+#  gplus:        '101183822199340201470'
+  about_link:   https://szjug.pl/o-nas/
   
   # Product Information
   product_link: http://www.meetup.com/Szczecin-Java-Users-Group/
-  tagline:      "Znajdź nas na "
+  tagline:      "Dołącz do nas na "
   
   # Comments
   disqus:
@@ -24,8 +24,8 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
+    twitter:    true
+    facebook:   true
     gplus:      false
     hn:         false
     

@@ -1,5 +1,5 @@
 .site-nav {
-    background:black;
+    background:$headerBackground;
     height:80px;
     position:absolute;
     left:0;
@@ -36,7 +36,7 @@
         padding-right:0;
 
         .brand {
-            background-color: #ffb800;
+            background-color: $brand-color;
             padding: 10px;
             color: white;
         }
@@ -52,7 +52,7 @@
         }
         
         > a, .dropdown-toggle  {
-            color:white;
+            color:$headerLinks;
             border:0;
             font-weight:600;
             font-size:15px;
