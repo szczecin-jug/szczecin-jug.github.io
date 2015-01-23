@@ -2,7 +2,7 @@ inc:
   # Blog Information
   title:        "Szczecin Java User Group"
 #  subtitle:     "Where Java devs meet"
-  cover_image:  conference-2.jpg
+  cover_image:  conference-blur.jpg
   logo:         szjug-logo3.png
   
   # Company information
@@ -20,7 +20,7 @@ inc:
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  "SzczecinJUG"
   
   # Sharing settings
   sharing:
@@ -46,7 +46,7 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
-include:     ['.htaccess']
+include:     ['.htaccess','news.html']
 exclude:     []
 timezone:    nil
 

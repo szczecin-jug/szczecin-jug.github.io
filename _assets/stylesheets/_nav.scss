@@ -49,6 +49,11 @@
             &:hover {
                 color:$accent;
             }
+
+            &.branded {
+                color: $accent;
+                font-weight: bold;
+            }
         }
         
         > a, .dropdown-toggle  {
