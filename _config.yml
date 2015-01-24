@@ -46,7 +46,7 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
-include:     ['.htaccess','news.html']
+include:     ['.htaccess','news.html','about.html']
 exclude:     []
 timezone:    nil
 
