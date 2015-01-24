@@ -1,12 +1,8 @@
 @media (max-width: 1000px) {
     
-    .tagline span {
-        display:none;
-    }
-    
     .container > header, .container > section, .container > footer {
         padding:0;
-        margin:1.5em 10%;
+        margin:1.5em 5%;
     }
     
     .container > section {
@@ -15,10 +11,23 @@
 
 }
 
+@media (max-width: 840px) {
+    .tagline span {
+        display:none;
+    }
+
+    article.container {
+        margin: 0 5%;
+    }
+}
+
 @media (max-width: 720px) {
+    body {
+        padding: 100px 0 0;
+    }
     
     article {
-        padding-top:30px;
+        padding: 30px 0 0 0;
         
         .container > header, .container > section, .container > footer {
             padding:0;
@@ -57,13 +66,26 @@
             font-size:0.9em;
         }
     }
+
+    div.blog-sponsors {
+        height: 200px;
+
+        >section {
+            padding-top: 0;
+
+            img {
+                display: block;
+                margin: 10px auto;
+            }
+        }
+    }
     
     .blog-cover {
-        height:200px;
+        height:330px;
 
         img {
-            height:200px;
-            width:auto;
+            max-height:150px;
+            max-width:150px;
         }
         
         section {
@@ -84,13 +106,20 @@
     }
     
     .site-nav .tagline span {
-        display:none;
+//        display:none;
     }
     
     .site-nav {
+        height: 140px;
+        nav {
+            padding: 22px 5%;
+        }
         #navigation {
             a {
-                display:none;
+                display:inline-block;
+                float: left;
+                clear: both;
+                margin: 0;
             }
             
             .brand {
@@ -121,6 +150,15 @@
         
         img {
             display:none;
+        }
+    }
+
+    .container > section.members {
+        ul {
+            li {
+                display: block !important;
+                width: 100%;
+            }
         }
     }
 }
