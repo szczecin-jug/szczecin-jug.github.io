@@ -1,0 +1,18 @@
+section.members {
+  text-align: center;
+  ul {
+    list-style-type: none;
+
+    li {
+      width: 30%;
+      text-align: center;
+      display: inline-block;
+    }
+  }
+
+  .avatar {
+    border-radius:62px;
+    height:128px;
+    width:128px;
+  }
+}

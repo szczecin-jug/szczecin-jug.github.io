@@ -34,11 +34,10 @@
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <!--<img src="/images/{{ site.inc.logo }}" alt="Inc">-->
                 Szczecin JUG
             </a>
             <a href="/news/" class="home">News</a>
-            <a href="/" class="home">Ludzie</a>
+            <a href="/people/" class="home">Ludzie</a>
             <a href="https://groups.google.com/forum/#!forum/szczecin-jug" class="home branded">Grupa Dyskusyjna</a>
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">Kim jesteśmy?</a>{% endif %}
         </nav>
@@ -52,13 +51,18 @@
 {{ content }}
 
 <footer class="site-footer">
+
     <div class="container">
+        <div style="text-align: center; margin-bottom: 1em">
+            <img src="/images/{{ site.inc.logo }}" alt="Inc" style="width: 100px;">
+        </div>
+
         &copy; {{ site.time | date: "%Y" }} 
         
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
             <a href="/news/">News</a> &middot;
-            <a href="/">Ludzie</a> &middot;
+            <a href="/people/">Ludzie</a> &middot;
             <a href="https://groups.google.com/forum/#!forum/szczecin-jug">Grupa dyskusyjna</a> &middot;
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">Kim jesteśmy?</a> &middot;{% endif %}
         </nav>
