@@ -36,8 +36,8 @@
             <a class="brand" href="/">
                 Szczecin JUG
             </a>
-            <a href="/news/" class="home">News</a>
-            <a href="/about/">O Nas</a>
+            <a href="{{ site.url }}/news/" class="home">News</a>
+            <a href="{{ site.url }}/about/">O Nas</a>
             <a href="https://groups.google.com/forum/#!forum/szczecin-jug" class="home branded">Grupa Dyskusyjna</a>
         </nav>
         <nav class="tagline">
@@ -53,15 +53,15 @@
 
     <div class="container">
         <div style="text-align: center; margin-bottom: 1em">
-            <img src="/images/{{ site.inc.logo }}" alt="Inc" style="width: 100px;">
+            <img src="images/{{ site.inc.logo }}" alt="Inc" style="width: 100px;">
         </div>
 
         &copy; {{ site.time | date: "%Y" }} 
         
         <nav>
-            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
-            <a href="/news/">News</a> &middot;
-            <a href="/about/">O Nas</a> &middot;
+            <a href="{{ site.url }}/{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
+            <a href="{{ site.url }}/news/">News</a> &middot;
+            <a href="{{ site.url }}/about/">O Nas</a> &middot;
             <a href="https://groups.google.com/forum/#!forum/szczecin-jug">Grupa dyskusyjna</a> &middot;
         </nav>
         
