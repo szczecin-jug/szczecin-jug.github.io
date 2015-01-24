@@ -27,3 +27,7 @@ $brand-color: #ffb800;
 @import "responsive";
 @import "members";
 @import "animate";
+
+.fb-like.fb_iframe_widget span{
+  vertical-align: top !important;
+}

@@ -26,7 +26,7 @@ inc:
   sharing:
     twitter:    true
     facebook:   true
-    gplus:      false
+    gplus:      true
     hn:         false
     
   
