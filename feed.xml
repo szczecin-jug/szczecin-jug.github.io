@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://szczecin-jug.github.io</link>
+    <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Tue, 27 Jan 2015 23:31:37 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2015 23:31:37 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Grudniowe spotkanie – o aplikacjach Spring-owych oraz o knockout.js</title>
+      <link>http://szczecin-jug.github.io/2014/12/14/meetup/</link>
+      <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2014/12/14/meetup</guid>
+      <description><![CDATA[<h2 id="environment-agnostic-applications-with-spring">Environment agnostic applications with Spring</h2>
+
+<p>czyli jak budować aplikację dostosowującą się do środowiska i klienta, a nie odwrotnie.
+Poruszone zostaną między innymi tematy: <strong>profile Maven’a</strong>, <strong>profile <a href="http://spring.io">Spring’a</a></strong>, <strong>Spring Boot</strong>, <strong>Conditionale w Spring 4</strong>.</p>
+
+<p>Prezentacje poprowadzi nasz kolega, <strong>Maciej Walkowiak</strong>. Kilka słów o Macku:</p>
+
+<p>Programista Javy specjalizujący się w rozwiązaniach opartych na Spring Framework. Kontrybutor projektów Spring Data MongoDB i Spring Boot. Nie lubi publicznych klas i wstrzykiwania zależności innego niż przez konstruktor.</p>
+
+<h2 id="ko--czyli-knockout-w-przegldarce">KO – czyli knockout w przeglądarce</h2>
+<p><a href="http://knockoutjs.com/">Knockout.js</a> – kompletny sposób na nowoczesne UI bez zbędnego wysiłku. To co tygryski lubią najbardziej:</p>
+
+<ul>
+  <li>deklaratywne dwustoronne wiązanie (declarative binding and UI/model refresh)</li>
+  <li>dependency tracking</li>
+  <li>templating</li>
+</ul>
+
+<p>Prezentacje poprowadzi <strong>Aleksander Gralak</strong>, który o sobie pisze:</p>
+
+<p>Java master of disaster przez ostatnie 10 lat. Od aplikacji desktopowych, przez serwerowe, po przeglądarkę. Ostatnio trochę zagubiony (znudzony ?), szukający nowych dróg rozwoju. Aktualnie na początku ścieżki Javascript.</p>
+
+<p>Szczegóły spotkania
+Data: 17.12.2014 (Środa)
+Godznina: 17:30
+Miejsce: Piwnica Kany, Plac. Piotra i Pawła 4/5, Szczecin
+Rejestracja: meetup</p>
+
+<p>Po spotkaniu tradycyjnie zachęcam do networkingu przy piwku :)
+Serdecznie Wszystkich Zapraszamy!</p>
+]]></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Web components – welcome to the future</title>
+      <link>http://szczecin-jug.github.io/2013/10/08/incorporated/</link>
+      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2013/10/08/incorporated</guid>
+      <description><![CDATA[<h2 id="kilka-sw-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
+<p>Web Components to zasadnicza zmiana sposobu programowania aplikacji
+internetowych. Oferują nam one narzędzia, które są potrzebne aby
+uczynić pracę developera bardziej produktywną oraz dają dostęp do
+możliwości zarezerwowanych wcześniej tylko dla przeglądarek
+internetowych.</p>
+
+<p><strong>Karol Fabjańczuk</strong> – front-end developer w firmie Lemon Demon.
+Zainteresowany open source, fotografią lotniczą oraz najnowszymi
+technologiami.</p>
+
+<h2 id="szczegy-spotkania">Szczegóły spotkania</h2>
+<p>Data: 6.11.2014 (Czwartek)
+Godznina: 17:30
+Miejsce: Piwnica Kany, Plac. Piotra i Pawła 4/5, Szczecin
+Rejestracja: meetup</p>
+
+<p>Po spotkaniu tradycyjnie zachęcam do networkingu przy piwku :)
+Serdecznie Wszystkich zapraszamy.</p>
+]]></description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
