@@ -13,7 +13,7 @@ module.exports = function(grunt) {
             },
             pages: {
                 options: {
-                    remote: 'https://github.com/szczecin-jug/szczecin-jug.git ',
+                    remote: 'https://github.com/szczecin-jug/szczecin-jug.github.io.git',
                     branch: 'master'
                 }
             }
