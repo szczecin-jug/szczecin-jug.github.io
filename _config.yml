@@ -2,12 +2,12 @@ inc:
   # Blog Information
   title:        "Szczecin Java User Group"
 #  subtitle:     "Where Java devs meet"
-  cover_image:  conference-blur.jpg
+  cover_image:  conference-3.jpg
   logo:         szjug-logo3.png
   
   # Company information
   company:      Szczecin Java User Group
-  url:          http://szjug.pl/
+  url:          http://szczecin-jug.github.io/
   facebook:     szjug
   twitter:      szjug
 #  gplus:        '101183822199340201470'
@@ -19,7 +19,7 @@ inc:
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  "SzczecinJUG"
+    shortname:  "szjug"
   
   # Sharing settings
   sharing:
@@ -40,7 +40,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://szjug.pl
+url:         http://szczecin-jug.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
