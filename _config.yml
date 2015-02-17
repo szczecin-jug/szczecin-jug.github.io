@@ -45,14 +45,14 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
-include:     ['.htaccess','news.html','about.html']
-exclude:     []
+include:     []
+exclude:     ['node_modules', 'Gemfile.lock','Gemfile','Gruntfile.js','package.json']
 timezone:    nil
 
 # Show future posts
 future:      false
 show_drafts: nil
-pygments:    true
+highlighter: pygments
 
 relative_permalinks: true
 

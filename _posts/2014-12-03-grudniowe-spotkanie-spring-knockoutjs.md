@@ -1,7 +1,6 @@
 ---
 layout: post
 
-cover_image: nwo-group.jpg
 title: Grudniowe spotkanie – o aplikacjach Spring-owych oraz o knockout.js
 
 excerpt: "Environment agnostic applications with Spring

@@ -7,10 +7,10 @@ subtitle: "Zapraszamy do posłuchania o dość nowym trendzie w świecie JavaScr
 excerpt: Jeśli ktoś nie miał okazji przybyć na Szczecińskie meet.js to teraz będzie okazja na powtórkę. Naszym prelegentem będzie **Karol Fabjańczuk**, frontend developer i organizator meet.js w Szczecinie.
 
 author:
-  name: Maciej Walkowiak
-  twitter: maciejwalkowiak
+  name: Marcin Kawelski
+  twitter: kardigen
   bio: Co-Leader
-  image: walkowiak.jpg
+  image: kawelski.jpg
 ---
 
 ## Kilka słów o prezentacji i prelegencie:

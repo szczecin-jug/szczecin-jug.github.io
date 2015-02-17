@@ -96,6 +96,7 @@ a {
     background-color:#111;
     background-size:cover;
     background-position:center center;
+    background-image:url("/images/conference-3.jpg");
     z-index:1;
 
     section {
@@ -121,6 +122,11 @@ a {
         );
         padding: 25px 0;
         z-index:10;
+
+        .logo {
+          width: 150px;
+          height: 150px;
+        }
 
         a:last-child {
             margin:1.5em 0 0 0;
@@ -204,6 +210,16 @@ a {
     font-size:0.8em;
     min-height: 170px;
     vertical-align: middle;
+
+    .logo-container {
+      text-align: center;
+      margin-bottom: 1em;
+
+      img {
+        width: 100px;
+        height: 100px;
+      }
+    }
     
     a {
         color:#777;
