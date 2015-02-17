@@ -6,17 +6,17 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 27 Jan 2015 23:31:37 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2015 23:31:37 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2015 23:11:50 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2015 23:11:50 +0000</lastBuildDate>
 
     
     
     <item>
       <title>Grudniowe spotkanie – o aplikacjach Spring-owych oraz o knockout.js</title>
-      <link>http://szczecin-jug.github.io/2014/12/14/meetup/</link>
-      <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
+      <link>http://szczecin-jug.github.io/2014/12/03/grudniowe-spotkanie-spring-knockoutjs/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://szczecin-jug.github.io/2014/12/14/meetup</guid>
+      <guid>http://szczecin-jug.github.io/2014/12/03/grudniowe-spotkanie-spring-knockoutjs</guid>
       <description><![CDATA[<h2 id="environment-agnostic-applications-with-spring">Environment agnostic applications with Spring</h2>
 
 <p>czyli jak budować aplikację dostosowującą się do środowiska i klienta, a nie odwrotnie.
@@ -54,10 +54,10 @@ Serdecznie Wszystkich Zapraszamy!</p>
     
     <item>
       <title>Web components – welcome to the future</title>
-      <link>http://szczecin-jug.github.io/2013/10/08/incorporated/</link>
-      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://szczecin-jug.github.io/2013/10/28/web-components%E2%80%93welcome-to-the-future/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://szczecin-jug.github.io/2013/10/08/incorporated</guid>
+      <guid>http://szczecin-jug.github.io/2013/10/28/web-components–welcome-to-the-future</guid>
       <description><![CDATA[<h2 id="kilka-sw-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
 <p>Web Components to zasadnicza zmiana sposobu programowania aplikacji
 internetowych. Oferują nam one narzędzia, które są potrzebne aby
