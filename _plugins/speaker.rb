@@ -1,7 +1,7 @@
 =begin
-  Jekyll tag to include Markdown text from _includes directory preprocessing with Liquid.
+  Jekyll tag to create Speaker info box
   Usage:
-    {% markdown <filename> %}
+    {% speaker <speaker name>,<speaker avatar url> %}<speaker description>{% endspeaker %}
   Dependency:
     - kramdown
 =end
@@ -22,8 +22,7 @@ module Jekyll
 
               	<div>
               		<h4>' + @name + '</h4>
-
-              		<p>' + Kramdown::Document.new(super.strip).to_html + '</p>
+              		' + Kramdown::Document.new(super.strip).to_html + '
                  </div>
               </div>'
     end
