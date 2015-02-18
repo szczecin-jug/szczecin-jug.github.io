@@ -6,8 +6,8 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Wed, 18 Feb 2015 00:48:42 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2015 00:48:42 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2015 00:53:52 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2015 00:53:52 +0000</lastBuildDate>
 
     
     
@@ -24,7 +24,14 @@
 <h2 id="environment-agnostic-applications-with-spring">Environment agnostic applications with Spring</h2>
 
 <p>czyli jak budować aplikację dostosowującą się do środowiska i klienta, a nie odwrotnie.
-Poruszone zostaną między innymi tematy: <strong>profile Maven’a</strong>, <strong>profile <a href="http://spring.io">Spring’a</a></strong>, <strong>Spring Boot</strong>, <strong>Conditionale w Spring 4</strong>.</p>
+Poruszone zostaną między innymi tematy:</p>
+
+<ul>
+  <li>profile Maven’a,</li>
+  <li>profile <a href="http://spring.io">Spring’a</a></li>
+  <li>Spring Boot</li>
+  <li>Conditionale w Spring 4</li>
+</ul>
 
 <div class="speaker">
               	<div class="avatar-container">
