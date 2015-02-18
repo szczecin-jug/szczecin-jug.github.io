@@ -21,7 +21,12 @@ Tym razem w planie są 2 prezentacje:
 ## Environment agnostic applications with Spring
 
 czyli jak budować aplikację dostosowującą się do środowiska i klienta, a nie odwrotnie.
-Poruszone zostaną między innymi tematy: **profile Maven’a**, **profile [Spring’a](http://spring.io)**, **Spring Boot**, **Conditionale w Spring 4**.
+Poruszone zostaną między innymi tematy:
+
+- profile Maven’a,
+- profile [Spring’a](http://spring.io)
+- Spring Boot
+- Conditionale w Spring 4
 
 {% speaker Maciej Walkowiak,https://pbs.twimg.com/profile_images/453170120819351552/HzuP1CoL_400x400.jpeg %}
 	Programista Javy specjalizujący się w rozwiązaniach opartych na Spring Framework.

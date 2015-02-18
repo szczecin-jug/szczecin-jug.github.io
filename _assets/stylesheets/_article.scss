@@ -270,6 +270,10 @@ article {
 
   dt, dd { display: inline; margin: 0; }
 
+  dt {
+    margin-right: 5px;
+  }
+
   dd:after {
     content: '\A';
     white-space: pre;
