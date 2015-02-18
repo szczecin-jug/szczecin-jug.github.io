@@ -161,4 +161,13 @@
             }
         }
     }
+
+    .container > section > div.speaker {
+      display: block;
+      text-align: center;
+
+      p {
+        text-align: left;
+      }
+    }
 }
