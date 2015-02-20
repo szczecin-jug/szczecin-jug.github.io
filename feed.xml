@@ -6,9 +6,89 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Wed, 18 Feb 2015 00:59:30 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2015 00:59:30 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2015 22:54:14 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2015 22:54:14 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>DevCrowd 2015 Call For Papers</title>
+      <link>http://szczecin-jug.github.io/2015/02/10/c4p-devcrowd-2015/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2015/02/10/c4p-devcrowd-2015</guid>
+      <description><![CDATA[<p>Konferencja <a href="http://2015.devcrowd.pl/">DevCrowd 2015</a> odbędzie się już 18 kwietnia 2015r w kompleksie <a href="http://www.wi.zut.edu.pl/">Wydziału Informatyki Zachodniopomorskiego Uniwersytetu Technologicznego</a>.</p>
+
+<p>Jak zawsze konferencja jest bezpłatna i otwarta dla wszystkich.</p>
+
+<p><img class="float-left" src="http://szjug.pl/wp-content/uploads/2015/02/devcrowd2015_250x250.png" /></p>
+
+<p>Konferencja obraca się wokół tematów związanych z Javą, ale niejednokrotnie pojawiały się prelekcje z dziedziny Front-endu, testowania i automatyzacji czy też UX.
+Aktualnie zbierane są <strong>zgłoszenia tematów</strong>. Jeżeli masz pomysł na prezentacje i chciałbyś ją przedstawić napisz już dziś.
+<strong>Zgłoszenia prosimy wysyłać na adres <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#052;&#112;&#064;&#100;&#101;&#118;&#099;&#114;&#111;&#119;&#100;&#046;&#112;&#108;">&#099;&#052;&#112;&#064;&#100;&#101;&#118;&#099;&#114;&#111;&#119;&#100;&#046;&#112;&#108;</a> do 1 marca 2015.</strong>
+Prelegentom zapewniamy dojazd, zakwaterowanie, wyżywienie na czas konferencji, unikalny T-shirt oraz udział w after party.
+Więcej informacji znajdziecie na stronie <a href="http://2015.devcrowd.pl/call4papers/">http://2015.devcrowd.pl/call4papers/</a></p>
+
+<p>Rok temu konferencja DevCrowd zgromadziła 14 znakomitych prelegentów oraz ponad 150 uczestników z całej Polski.
+Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzednich edycji na <a href="https://www.facebook.com/pages/DevCrowd/176202629066350">facebooku</a>, <a href="https://twitter.com/devcrowdpl">twitterze</a> lub poprzez e-mail: <a href="info@devcrowd.pl">info@devcrowd.pl</a>.</p>
+
+<p>Polecamy i zapraszamy!</p>
+
+]]></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Polecamy konferencje GeeCon TDD</title>
+      <link>http://szczecin-jug.github.io/2015/01/11/polecamy-konferencje-geecon-tdd/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2015/01/11/polecamy-konferencje-geecon-tdd</guid>
+      <description><![CDATA[<p><img class="float-left" src="http://szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png" /></p>
+
+<p>Konferencja odbędzie się już 30 stycznia 2015r. Zapraszamy wszystkich zainteresowanych tematyką testów, jakości w procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych a w szczególności Test Driven Development!</p>
+
+<p>Celem konferencji jest, aby nie ograniczać się wyłącznie do Javy, czy do technologii JVM, a poruszyć temat TDD możliwie szeroko, niezależnie od języka programowania, platformy czy architektury.</p>
+
+<p>Dostępna jest już wstępna <a href="http://2015.tdd.geecon.org/#schedule">agenda konferencji</a>.</p>
+
+<p>Rejestracja ruszyła kilka dni temu i znajdziecie ją pod adresem: <a href="http://2015.tdd.geecon.org/register">2015.tdd.geecon.org/register</a>. Nie zwlekajcie! Liczba miejsc jest ograniczona!</p>
+
+<p>Można się już również <a href="http://2015.tdd.geecon.org/workshops/">rejestrować na warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org/">2015.tdd.geecon.org</a>.</p>
+]]></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Koniec roku 2014</title>
+      <link>http://szczecin-jug.github.io/2014/12/24/podsumowanie-2014/</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2014/12/24/podsumowanie-2014</guid>
+      <description><![CDATA[<p><img class="float-left" style="width: 300px" src="http://szjug.pl/wp-content/uploads/2014/12/binarna_choinka.jpg" /></p>
+
+<p>Czas na chwile refleksji i podsumowanie. Mam nadzieję, że każdy(a) z was miał(a) w tym roku okazję skorzystać w jakiś sposób z działalności naszej grupy JUG. Jeśli tak, to uważam, że misja naszej organizacji została wypełniona, a to z kolei napawa mnie radością! :)</p>
+
+<p>binarna_choinkaAle po kolei. Na początku roku wszystko zapowiadało się kolorowo. Nowa strona, ciekawe spotkanie z przyjezdnym prelegentem Maćkiem Białasem. Niestety później zabrało tego czegoś i tak naprawdę kolejne spotkanie odbyło się dopiero w czerwcu. Myślę, że częściowo powodem takiego stanu rzeczy było to, że priorytetem dla mnie stał się DevCrowd 2014, i troszkę zabrakło sił na JUGa.</p>
+
+<p>Konferencja Devcrowd 2014 była wspaniałym sukcesem (mimo kilku niepowodzeń). Tutaj muszę pochwalić dwóch kolegów z JUGa: <strong>Jacek Skirzyński</strong> oraz <strong>Piotrek Lemańczyk</strong>. Chłopaki w ramach rozszerzenia projektu JUG fun codding chcieli zrobić grę konkursową na DevCrowd, jednak się nie udało :/ (szkoda – tu też jest troszkę mojej winy).</p>
+
+<p>Jednak dzięki temu, nauczyłem się trudnej sztuki wyboru. Dlatego też, oddaje pałeczkę i nie będę już organizatorem konferencji DevCrowd 2015 i zamierzam się skupić na działalności JUGa.</p>
+
+<p>Kolejne spotkania, począwszy od czerwca, były dość regularne i na wysokim poziomie, co mnie bardzo cieszy :)</p>
+
+<p>Tutaj chciałbym Podziękować przede wszystkim <strong>Pawłowi Stawickiemu</strong>, który zawsze mi pomaga. Paweł od samego początku JUGa jest zarówno: współzałożycielem, prelegentem, jak i aktywnym uczestnikiem. Dzięki Paweł, jesteś niezastąpiony! Ale nie tylko Pawłowi należą się podziękowania. Dziękuję wszystkim aktywnym grupowiczom! Bez was nie byłoby JUGa!</p>
+
+<p>Nadchodzą święta oraz kolejny rok. Życzę Wam wszystkim abyście spędzili ten czas rodzinnie i wśród przyjaciół. Byście odpoczęli i naładowali się pozytywną energią, tak aby w przyszłym roku działać aktywnie i dzielić się tą energią z kolegami i koleżankami z JUGa :)</p>
+
+<h2 id="wesoych-wit-i-szczliwego-nowego-roku">Wesołych Świąt i Szczęśliwego Nowego Roku!</h2>
+]]></description>
+    </item>
+    
     
     
     <item>
@@ -40,11 +120,10 @@ Poruszone zostaną między innymi tematy:</p>
 
               	<div>
               		<h4>Maciej Walkowiak</h4>
-
-              		<p><p>Programista Javy specjalizujący się w rozwiązaniach opartych na Spring Framework.
+              		<p>Programista Javy specjalizujący się w rozwiązaniach opartych na Spring Framework.
 	Kontrybutor projektów Spring Data MongoDB i Spring Boot.
 	Nie lubi publicznych klas i wstrzykiwania zależności innego niż przez konstruktor.</p>
-</p>
+
                  </div>
               </div>
 
@@ -64,10 +143,9 @@ Poruszone zostaną między innymi tematy:</p>
 
               	<div>
               		<h4>Aleksander Gralak</h4>
-
-              		<p><p>Java master of disaster przez ostatnie 10 lat. Od aplikacji desktopowych, przez serwerowe, po przeglądarkę.
+              		<p>Java master of disaster przez ostatnie 10 lat. Od aplikacji desktopowych, przez serwerowe, po przeglądarkę.
 	Ostatnio trochę zagubiony (znudzony?), szukający nowych dróg rozwoju. Aktualnie na początku ścieżki Javascript.</p>
-</p>
+
                  </div>
               </div>
 
@@ -92,10 +170,10 @@ Serdecznie Wszystkich Zapraszamy!</p>
     
     <item>
       <title>Web components – welcome to the future</title>
-      <link>http://szczecin-jug.github.io/2013/10/28/web-components%E2%80%93welcome-to-the-future/</link>
-      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://szczecin-jug.github.io/2014/10/28/web-components%E2%80%93welcome-to-the-future/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://szczecin-jug.github.io/2013/10/28/web-components–welcome-to-the-future</guid>
+      <guid>http://szczecin-jug.github.io/2014/10/28/web-components–welcome-to-the-future</guid>
       <description><![CDATA[<h2 id="kilka-sw-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
 <p>Web Components to zasadnicza zmiana sposobu programowania aplikacji
 internetowych. Oferują nam one narzędzia, które są potrzebne aby
@@ -110,9 +188,8 @@ internetowych.</p>
 
               	<div>
               		<h4>Karol Fabjańczuk</h4>
+              		<p>Front-end developer w firmie <a href="http://lemondemon.pl/">Lemon Demon</a>. Zainteresowany open source, fotografią lotniczą oraz najnowszymi technologiami.</p>
 
-              		<p><p>Front-end developer w firmie <a href="http://lemondemon.pl/">Lemon Demon</a>. Zainteresowany open source, fotografią lotniczą oraz najnowszymi technologiami.</p>
-</p>
                  </div>
               </div>
 
