@@ -45,7 +45,7 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
-include:     []
+include:     ['CNAME']
 exclude:     ['node_modules', 'Gemfile.lock','Gemfile','Gruntfile.js','package.json']
 timezone:    nil
 
