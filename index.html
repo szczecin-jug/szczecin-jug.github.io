@@ -24,7 +24,7 @@ layout: base
 
 
 <article class="container">
-{% for post in paginator.posts limit: 1 %}
+{% for post in paginator.posts limit: 2 %}
   {% unless post.draft %}
     <section class="index">
         {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}
