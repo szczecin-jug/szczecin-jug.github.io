@@ -13,6 +13,8 @@ author:
   image: walkowiak.jpg
 ---
 
+![Szczecin.scala]({{ site.base_url }}/images/meetscala.jpg "Szczecin.scala")
+
 W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem **[Scala](http://www.scala-lang.org/)** -&nbsp; **Szczecin.scala**.
 
 Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[Scalac](http://scalac.io/)** z Gdańska!
