@@ -6,9 +6,112 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 20 Feb 2015 22:54:14 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2015 22:54:14 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2015 22:34:48 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2015 22:34:48 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Szczecin.scala 16.03.2015!</title>
+      <link>http://szczecin-jug.github.io/2015/02/26/szczecin-scala/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2015/02/26/szczecin-scala</guid>
+      <description><![CDATA[<p><img src="/images/meetscala.jpg" alt="Szczecin.scala" title="Szczecin.scala" /></p>
+
+<p>W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem <strong><a href="http://www.scala-lang.org/">Scala</a></strong> -  <strong>Szczecin.scala</strong>.</p>
+
+<p>Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie <strong><a href="http://scalac.io/">Scalac</a></strong> z Gdańska!</p>
+
+<div style="text-align: center">
+	<a href="http://scalac.io"><img src="http://www.scalac.io/img/logo/scalac_logo.png" /></a>
+</div>
+
+<h2 id="dlaczego-scala">Dlaczego Scala?</h2>
+
+<p><strong>Scala</strong> jest językiem na platformę <strong>JVM</strong> łączącym w sobie cechy zarówno <strong>języka obiektowego</strong> jak i <strong>funkcyjnego</strong>, tworząc niesamowicie spójną całość,
+otwierającą programiście możliwości, które do tej pory były trudno osiągalne w językach typowo obiektowych.</p>
+
+<p>Scala w ostatnich latach szybko zyskuje na popularności a na rynku pracy zapotrzebowanie na programistów Scali wciąż rośnie. Dodatkowo programista Scali w UK zarabia średnio <strong>60000£</strong> - czyli 10000£ rocznie więcej od programisty Javy ;-)</p>
+
+<h2 id="czy-to-spotkanie-jest-dla-ciebie">Czy to spotkanie jest dla Ciebie?</h2>
+
+<p>Nie znasz Scali lub chcesz pogłębić swoją widzę? <strong>Przyjdź na spotkanie!</strong> Prelekcje będą przeznaczone zarówno dla programistów Javy (lub innych obiektowych języków programowania),
+którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających tematy takie jak <strong><a href="https://www.playframework.com/">Play Framework</a></strong> czy <strong><a href="http://akka.io/">Akka</a></strong>.</p>
+
+<h2 id="prelegenci">Prelegenci</h2>
+
+<div class="speaker">
+              	<div class="avatar-container">
+              		<img src="https://pbs.twimg.com/profile_images/529925673230409729/9sCOOlsQ_400x400.png " />
+              	</div>
+
+              	<div>
+              		<h4>Leszek Gruchała</h4>
+              		<p>Programista z 8 letnim doświadczeniem głównie w Javie, parający się w dużej mierze również JavaScriptem. Od dwóch lat zauroczony Scalą, od kilku miesięcy pochłonięty nią w całości. Mniej służbowo założyciel Szczecin JUG, DevCrowd, a ostatnio bardzo zajęty ojciec dwójki małych dzieci.</p>
+
+                 </div>
+              </div>
+
+<div class="speaker">
+              	<div class="avatar-container">
+              		<img src="https://pbs.twimg.com/profile_images/378800000339605339/dfc09873ccad42c2e3e68699f4f5b469_400x400.jpeg " />
+              	</div>
+
+              	<div>
+              		<h4>Piotr Adamski</h4>
+              		<p>Lead Developer w Discavo GmbH. Entuzjasta Scali od ponad pięciu lat. Hobbistycznie programuje wszystko w zasięgu rąk.</p>
+
+                 </div>
+              </div>
+
+<div class="speaker">
+              	<div class="avatar-container">
+              		<img src="https://pbs.twimg.com/profile_images/220362761/oczy-mini_400x400.JPG " />
+              	</div>
+
+              	<div>
+              		<h4>Paweł Stawicki</h4>
+              		<p>Programista, przeszedł drogę od C, przez C++ i Javę do Scali, którą zajmuje się obecnie. Od 4 lat pracuje zdalnie. Prywatnie czasem biega i żegluje. Lubi robić proste doświadczenia fizyczne z dziećmi.</p>
+
+                 </div>
+              </div>
+
+<h2 id="agenda">Agenda</h2>
+
+<ul>
+  <li><strong>18:00</strong> - Zmiany i nowości w Szczecin JUG - <strong>Maciej Walkowiak</strong></li>
+  <li><strong>18:10</strong> - Witamy w Business Link - <strong>Konrad Gaweł</strong></li>
+  <li><strong>18:20</strong> - Szybkie wprowadzenie do Scali - <strong>Leszek Gruchała</strong></li>
+</ul>
+
+<p><em>Postaram się w (bardzo) szybki i zwięzły sposób wprowadzić Was w świat języka Scala. Zero slajdów, 100% kodu - satysfakcja gwarantowana.</em></p>
+
+<ul>
+  <li><strong>19:00</strong> - Przerwa na kawę</li>
+  <li><strong>19:20</strong> - Play Framework 2 - <strong>Piotr Adamski</strong></li>
+  <li><strong>20:00</strong> - Przerwa na kawę</li>
+  <li><strong>20:20</strong> - Akka - programowanie wielowątkowe bez bólu - <strong>Paweł Stawicki</strong></li>
+</ul>
+
+<h2 id="goodies">Goodies</h2>
+
+<p>Na spotkaniu zostanie rozlosowana książka <strong><a href="http://www.amazon.co.uk/dp/0321774094/ref=dra_a_cs_mr_hn_it_P3076_100?tag=dradisplay0bb-21&amp;ascsubtag=264f2cd4ac3903d45bf1137c46cda8ea_S">Scala for the Impatient</a></strong>!</p>
+
+<h2 id="lokalizacja">Lokalizacja</h2>
+<p>Spotykamy się w <strong>Business Link Szczecin</strong></p>
+
+<div style="text-align: center">
+	<a href="http://blpoland.com/?page_id=2882"><img style="height: 250px" src="http://m.natemat.pl/3baffcbb18db9dc4fdf5a0b4ddd3a0b9,640,0,0,0.png" /></a>
+</div>
+
+<p>Szczecińskim akceleratorze biznesu mieszczącym się w nowym biurowcu Lastadia Office.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2377.582177801528!2d14.563772600000002!3d53.4222982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa090604e42cf3%3A0xdf418520318bdf10!2sZbo%C5%BCowa+4%2C+Szczecin%2C+Poland!5e0!3m2!1sen!2s!4v1424474710203" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+
+]]></description>
+    </item>
+    
     
     
     <item>
@@ -21,7 +124,7 @@
 
 <p>Jak zawsze konferencja jest bezpłatna i otwarta dla wszystkich.</p>
 
-<p><img class="float-left" src="http://szjug.pl/wp-content/uploads/2015/02/devcrowd2015_250x250.png" /></p>
+<p><img class="float-left" src="http://old.szjug.pl/wp-content/uploads/2015/02/devcrowd2015_250x250.png" /></p>
 
 <p>Konferencja obraca się wokół tematów związanych z Javą, ale niejednokrotnie pojawiały się prelekcje z dziedziny Front-endu, testowania i automatyzacji czy też UX.
 Aktualnie zbierane są <strong>zgłoszenia tematów</strong>. Jeżeli masz pomysł na prezentacje i chciałbyś ją przedstawić napisz już dziś.
@@ -45,7 +148,7 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://szczecin-jug.github.io/2015/01/11/polecamy-konferencje-geecon-tdd</guid>
-      <description><![CDATA[<p><img class="float-left" src="http://szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png" /></p>
+      <description><![CDATA[<p><img class="float-left" src="http://old.szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png" /></p>
 
 <p>Konferencja odbędzie się już 30 stycznia 2015r. Zapraszamy wszystkich zainteresowanych tematyką testów, jakości w procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych a w szczególności Test Driven Development!</p>
 
@@ -69,7 +172,7 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://szczecin-jug.github.io/2014/12/24/podsumowanie-2014</guid>
-      <description><![CDATA[<p><img class="float-left" style="width: 300px" src="http://szjug.pl/wp-content/uploads/2014/12/binarna_choinka.jpg" /></p>
+      <description><![CDATA[<p><img class="float-left" style="width: 300px" src="http://old.szjug.pl/wp-content/uploads/2014/12/binarna_choinka.jpg" /></p>
 
 <p>Czas na chwile refleksji i podsumowanie. Mam nadzieję, że każdy(a) z was miał(a) w tym roku okazję skorzystać w jakiś sposób z działalności naszej grupy JUG. Jeśli tak, to uważam, że misja naszej organizacji została wypełniona, a to z kolei napawa mnie radością! :)</p>
 
