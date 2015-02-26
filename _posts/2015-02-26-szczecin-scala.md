@@ -1,10 +1,10 @@
 ---
 layout: post
 # cover_image: meetscala2.png
-title: Meet.Scala 16.03.2015!
-# subtitle: 16 marca 2015 zapraszamy na spotkanie zatytułowane Meet.Scala organizowaną przez&nbsp;Szczecin&nbsp;JUG!
+title: Szczecin.scala 16.03.2015!
+# subtitle: 16 marca 2015 zapraszamy na spotkanie zatytułowane Szczecin.Scala organizowaną przez&nbsp;Szczecin&nbsp;JUG!
 
-excerpt: Zapraszamy na wieczór ze Scalą - **Meet.Scala** organizowaną przez&nbsp;**Szczecin&nbsp;JUG**!
+excerpt: Zapraszamy na wieczór ze Scalą - **Szczecin.scala** - spotkanie organizowane przez&nbsp;**Szczecin&nbsp;JUG**!
 
 author:
   name: Maciej Walkowiak
@@ -13,7 +13,7 @@ author:
   image: walkowiak.jpg
 ---
 
-W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem **[Scala](http://www.scala-lang.org/)** -&nbsp; **Meet.Scala**.
+W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem **[Scala](http://www.scala-lang.org/)** -&nbsp; **Szczecin.scala**.
 
 Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[Scalac](http://scalac.io/)** z Gdańska!
 
@@ -44,7 +44,7 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
 {% endspeaker %}
 
 {% speaker Paweł Stawicki,https://pbs.twimg.com/profile_images/220362761/oczy-mini_400x400.JPG %}
-	Ancient alien electromagnetic ancient alien theorists foo fighter inter-dimensional SETI, evidence Easter island ancient god Annunaki pre-colonial aerodynamics King Soloman.
+	Programista, przeszedł drogę od C, przez C++ i Javę do Scali, którą zajmuje się obecnie. Od 4 lat pracuje zdalnie. Prywatnie czasem biega i żegluje. Lubi robić proste doświadczenia fizyczne z dziećmi.
 {% endspeaker %}
 
 
@@ -59,9 +59,7 @@ _Postaram się w (bardzo) szybki i zwięzły sposób wprowadzić Was w świat j�
 - **19:00** - Przerwa na kawę
 - **19:20** - Play Framework 2 - **Piotr Adamski**
 - **20:00** - Przerwa na kawę
-- **20:20** - Wszystko co chcielibyście wiedzieć o Akka ale boicie się zapytać - **Paweł Stawicki**
-- **21:00** - Przyjeżdża **pizza** (!)
-- **22:00** - Przenosimy się na Stare Nowe Miasto do lokalu Pomiędzy aby kontynuować dyskusje
+- **20:20** - Akka - programowanie wielowątkowe bez bólu - **Paweł Stawicki**
 
 ## Goodies
 

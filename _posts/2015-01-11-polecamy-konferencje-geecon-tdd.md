@@ -14,7 +14,7 @@ author:
   image: kawelski.jpg
 ---
 
-<img class="float-left" src="http://szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png">
+<img class="float-left" src="http://old.szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png">
 
 Konferencja odbędzie się już 30 stycznia 2015r. Zapraszamy wszystkich zainteresowanych tematyką testów, jakości w procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych a w szczególności Test Driven Development!
 
