@@ -17,7 +17,7 @@ author:
 
 W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem **[Scala](http://www.scala-lang.org/)** -&nbsp; **Szczecin.scala**.
 
-Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[Scalac](http://scalac.io/)** z Gdańska!
+Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[ScalaC](http://scalac.io/)** z Gdańska!
 
 <div style="text-align: center">
 	<a href="http://scalac.io"><img src="http://www.scalac.io/img/logo/scalac_logo.png"></a>
@@ -77,4 +77,3 @@ Spotykamy się w **Business Link Szczecin**
 Szczecińskim akceleratorze biznesu mieszczącym się w nowym biurowcu Lastadia Office.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2377.582177801528!2d14.563772600000002!3d53.4222982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa090604e42cf3%3A0xdf418520318bdf10!2sZbo%C5%BCowa+4%2C+Szczecin%2C+Poland!5e0!3m2!1sen!2s!4v1424474710203" width="100%" height="250" frameborder="0" style="border:0"></iframe>
-
