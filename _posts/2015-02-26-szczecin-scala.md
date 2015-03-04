@@ -1,10 +1,10 @@
 ---
 layout: post
 # cover_image: meetscala2.png
-title: Szczecin.scala 16.03.2015!
+title: Szczecin.scala - Scala, Play2, Akka!
 # subtitle: 16 marca 2015 zapraszamy na spotkanie zatytułowane Szczecin.Scala organizowaną przez&nbsp;Szczecin&nbsp;JUG!
 
-excerpt: Zapraszamy na wieczór ze Scalą - **Szczecin.scala** - spotkanie organizowane przez&nbsp;**Szczecin&nbsp;JUG**!
+excerpt: 16 marca 2015 zapraszamy na wieczór ze Scalą - **Szczecin.scala** - spotkanie organizowane przez&nbsp;**Szczecin&nbsp;JUG**!
 
 author:
   name: Maciej Walkowiak
@@ -17,7 +17,7 @@ author:
 
 W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem **[Scala](http://www.scala-lang.org/)** -&nbsp; **Szczecin.scala**.
 
-Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[ScalaC](http://scalac.io/)** z Gdańska!
+Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[Scalac](http://scalac.io/)** z Gdańska!
 
 <div style="text-align: center">
 	<a href="http://scalac.io"><img src="http://www.scalac.io/img/logo/scalac_logo.png"></a>
@@ -59,7 +59,7 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
 _Postaram się w (bardzo) szybki i zwięzły sposób wprowadzić Was w świat języka Scala. Zero slajdów, 100% kodu - satysfakcja gwarantowana._
 
 - **19:00** - Przerwa na kawę
-- **19:20** - Play Framework 2 - **Piotr Adamski**
+- **19:20** - O Play przy piwie - **Piotr Adamski**
 - **20:00** - Przerwa na kawę
 - **20:20** - Akka - programowanie wielowątkowe bez bólu - **Paweł Stawicki**
 
