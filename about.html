@@ -5,7 +5,7 @@ layout: base
 <article class="container">
     {% markdown about.md %}
 
-    <h2>Zespół</h2>
+    <h2>Organizatorzy</h2>
     <section class="members">
         <ul>
             {% for member in site.data.people %}
@@ -14,7 +14,7 @@ layout: base
                 <a href="https://github.com/{{ member.github }}">
                     {{ member.name }}
                 </a><br>
-                <span>{{ member.title }}</span><br>
+
                 {% if member.twitter %}
                     <a href="https://twitter.com/{{ member.twitter }}" class="twitter-follow-button" data-show-count="true"
                        data-show-screen-name="false">Follow</a>
