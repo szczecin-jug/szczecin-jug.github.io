@@ -6,13 +6,13 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 27 Feb 2015 09:18:15 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2015 09:18:15 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2015 20:20:31 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2015 20:20:31 +0000</lastBuildDate>
 
     
     
     <item>
-      <title>Szczecin.scala 16.03.2015!</title>
+      <title>Szczecin.scala - Scala, Play2, Akka!</title>
       <link>http://szczecin-jug.github.io/2015/02/26/szczecin-scala/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
       <author></author>
@@ -21,7 +21,7 @@
 
 <p>W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem <strong><a href="http://www.scala-lang.org/">Scala</a></strong> -  <strong>Szczecin.scala</strong>.</p>
 
-<p>Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie <strong><a href="http://scalac.io/">ScalaC</a></strong> z Gdańska!</p>
+<p>Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie <strong><a href="http://scalac.io/">Scalac</a></strong> z Gdańska!</p>
 
 <div style="text-align: center">
 	<a href="http://scalac.io"><img src="http://www.scalac.io/img/logo/scalac_logo.png" /></a>
@@ -89,7 +89,7 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
 
 <ul>
   <li><strong>19:00</strong> - Przerwa na kawę</li>
-  <li><strong>19:20</strong> - Play Framework 2 - <strong>Piotr Adamski</strong></li>
+  <li><strong>19:20</strong> - O Play przy piwie - <strong>Piotr Adamski</strong></li>
   <li><strong>20:00</strong> - Przerwa na kawę</li>
   <li><strong>20:20</strong> - Akka - programowanie wielowątkowe bez bólu - <strong>Paweł Stawicki</strong></li>
 </ul>
@@ -97,6 +97,10 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
 <h2 id="goodies">Goodies</h2>
 
 <p>Na spotkaniu zostanie rozlosowana książka <strong><a href="http://www.amazon.co.uk/dp/0321774094/ref=dra_a_cs_mr_hn_it_P3076_100?tag=dradisplay0bb-21&amp;ascsubtag=264f2cd4ac3903d45bf1137c46cda8ea_S">Scala for the Impatient</a></strong>!</p>
+
+<h2 id="rejestracja">Rejestracja</h2>
+
+<p>Wstęp i rejestracja jest oczywiście darmowa. Prosimy o zarejestrowanie się na wydarzenie na <a href="http://www.meetup.com/Szczecin-Java-Users-Group/events/220797721/">Meetup</a> lub <a href="https://www.facebook.com/events/329244293940901/">Facebook</a>.</p>
 
 <h2 id="lokalizacja">Lokalizacja</h2>
 <p>Spotykamy się w <strong>Business Link Szczecin</strong></p>
