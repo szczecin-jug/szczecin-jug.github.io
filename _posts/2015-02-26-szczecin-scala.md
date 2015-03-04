@@ -67,6 +67,10 @@ _Postaram się w (bardzo) szybki i zwięzły sposób wprowadzić Was w świat j�
 
 Na spotkaniu zostanie rozlosowana książka **[Scala for the Impatient](http://www.amazon.co.uk/dp/0321774094/ref=dra_a_cs_mr_hn_it_P3076_100?tag=dradisplay0bb-21&ascsubtag=264f2cd4ac3903d45bf1137c46cda8ea_S)**!
 
+## Rejestracja
+
+Wstęp i rejestracja jest oczywiście darmowa. Prosimy o zarejestrowanie się na wydarzenie na [Meetup](http://www.meetup.com/Szczecin-Java-Users-Group/events/220797721/) lub [Facebook](https://www.facebook.com/events/329244293940901/).
+
 ## Lokalizacja
 Spotykamy się w **Business Link Szczecin**
 
