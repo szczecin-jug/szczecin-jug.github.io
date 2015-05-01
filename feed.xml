@@ -6,29 +6,29 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Wed, 15 Apr 2015 06:33:58 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2015 06:33:58 +0000</lastBuildDate>
+    <pubDate>Fri, 01 May 2015 15:07:38 +0000</pubDate>
+    <lastBuildDate>Fri, 01 May 2015 15:07:38 +0000</lastBuildDate>
 
     
     
     <item>
-      <title>DevCrowd'15 - już w sobotę</title>
-      <link>http://szczecin-jug.github.io/2015/04/15/devcrowd/</link>
-      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      <title>Mamy dla Was licencje na Intellij IDEA!</title>
+      <link>http://szczecin-jug.github.io/2015/05/01/licencja-na-intellij-idea/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://szczecin-jug.github.io/2015/04/15/devcrowd</guid>
-      <description><![CDATA[<div style="text-align: center">
-	<img src="http://2015.devcrowd.pl/wp-content/uploads/2013/01/duger-big.png" width="250" />
+      <guid>http://szczecin-jug.github.io/2015/05/01/licencja-na-intellij-idea</guid>
+      <description><![CDATA[<p>Miło nam poinformować, że do grona naszych sponsorów dołączyła firma JetBrains, producent środowiska IntelliJ IDEA.</p>
+
+<p>Dzięki ich uprzejmości, na każdym spotkaniu będziemy mieli dla Was do rozlosowania licencję na to środowisko. 
+Jest to środowisko developerskie uważane przez wielu programistów za najlepsze do Javy. Licencja jest osobista, co znaczy 
+że jej właściciel(ka) może korzystać z niej w każdych warunkach, zarówno w domu, jak i w pracy, w projektach hobbystycznych,
+jak i komercyjnych. Bez ograniczeń.</p>
+
+<p>Mamy nadzieję, że już wkrótce dołączycie do grona szczęśliwych developerów korzystających z tego IDE na codzień.</p>
+
+<div style="text-align: center">
+	<a href="http://jetbrains.com"><img src="/images/sponsors/logo_jetbrains.png" /></a>
 </div>
-
-<p><strong>18 kwietnia 2015</strong> odbędzie się kolejna edycja <a href="http://2015.devcrowd.pl/">DevCrowd</a> - <strong>bezpłatnej</strong> szczecińskiej konferencji dla programistów Java.
-W tym roku widzę wyraźny podział na tematy stricte Javowe, miękkie i około-startupowe - dzięki dużemu zróżnicowaniu i <strong>3 (!)</strong> ścieżkom, każdy znajdzie coś dla siebie.
-Polecam przyjrzeć się <a href="http://2015.devcrowd.pl/agenda/">pełnej agendzie</a>.</p>
-
-<p>Lokalizacja, jak co roku, <a href="http://wi.zut.edu.pl/">Wydział Informatyki Zachodniopomorskiego Uniwersytetu Technologicznego</a></p>
-
-<iframe src="https://maps.google.pl/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=szczecin,+%C5%BCo%C5%82nierska+52&amp;aq=&amp;sll=53.596951,15.552281&amp;sspn=2.48434,4.938354&amp;ie=UTF8&amp;hq=&amp;hnear=%C5%BBo%C5%82nierska+52,+Szczecin,+zachodniopomorskie&amp;t=m&amp;ll=53.452231,14.489937&amp;spn=0.017889,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed" width="100%" height="250" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 ]]></description>
     </item>
     
