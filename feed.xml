@@ -6,9 +6,65 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 01 May 2015 15:07:38 +0000</pubDate>
-    <lastBuildDate>Fri, 01 May 2015 15:07:38 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 13:56:46 +0000</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 13:56:46 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Porozmawiajmy - spotkanie w formie Unconference (Open Spaces)</title>
+      <link>http://szczecin-jug.github.io/2015/05/11/unconference/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2015/05/11/unconference</guid>
+      <description><![CDATA[<p>Zapraszamy na kolejne spotkanie Szczecin JUG! Tym razem odbędzie się ono w formie unconference, zwanej też Open Spaces.</p>
+
+<p>Na czym polega Unconference? Na luźnych rozmowach o… o czym będziemy chcieli :) 
+Na początku pozbieramy tematy. Każdy będzie mógł zaproponować jakiś na karteczce i przykleić do tablicy.
+Potem będziemy na nie głosować i te, które będą cieszyły się największą popularnością przydzielimy do “slotów”, czyli
+określimy czas i miejsce w którym będziemy na ten temat rozmawiać. Dlatego fajnie jakbyście przemyśleli już wcześniej
+o czym chcielibyście podyskutować.
+Jako JUG oczywiście kręcimy się wokół programowania i wszystkiego co z tym związane. Możemy rozmawiać o sprawach mocno technicznych,
+jak i dotyczących samego procesu wytwarzania sowtware’u. Zatem może to być zarówno Scala, garbage collection w JVM, jak i
+code review, retrospekcje, Scrum czy Kanban. Tematy są zupełnie dowolne. Aby o czymś porozmawiać, nie musicie się na tym
+znać. Być może chcielibyście się właśnie czegoś dowiedzieć o danym zagadnieniu? To wystarczający powód żeby zgłosić temat.
+Jeśli natomiast masz rozległą wiedzę w jakimś obszarze i chciałbyś się nią podzielic - to również dobry powód :)</p>
+
+<p>Więcej o takiej formule spotkania
+<a href="https://www.youtube.com/watch?v=aD3S0wlbek0">tutaj</a>.  </p>
+
+<p>Naszymi partnerami są <a href="http://klaster.it/pl/">klaster.it</a> oraz 
+<a href="http://www.technopark-pomerania.pl/pl/">Technopark Pomerania</a>, które użyczają nam sali na spotkanie. </p>
+
+<p>Dzięki sponsorowi, firmie <a href="http://www.ncdc.eu/">NCDC</a>, będziemy mieli dla Was dwie książki, które rozlosujemy wśród uczestników. 
+Natomiast od firmy <a href="https://www.jetbrains.com/">JetBrains</a> mamy licencję na dowolny produkt tej firmy 
+(IntelliJ IDEA, PhpStorm, RubyMine, PyCharm i wiele innych).</p>
+
+<p>Zapraszamy!</p>
+
+<p><strong>Czas:</strong> 30.05.2015, godzina 10.00</p>
+
+<p><strong>Miejsce:</strong> Technopark Pomerania, ul. Cyfrowa 6, Szczecin, budynek F2, sala C.0.13</p>
+
+<div style="text-align: center">
+	<img src="/images/technopark-budynek-f2.jpg" />
+</div>
+
+<h2 id="sponsorzy">Sponsorzy</h2>
+
+<div style="text-align: center">
+	<a href="http://jetbrains.com"><img src="/images/sponsors/logo_jetbrains.png" /></a>
+	<a href="http://www.ncdc.eu/"><img src="/images/sponsors/NCDC_logo.png" /></a>
+</div>
+
+<h2 id="partnerzy">Partnerzy</h2>
+<div style="text-align: center">
+	<a href="http://klaster.it/pl/"><img class="sponsor-logo" src="/images/partners/klaster_logo.png" /></a>
+	<a href="http://www.technopark-pomerania.pl/pl/"><img class="sponsor-logo" src="/images/partners/tp_short.png" /></a>
+</div>
+]]></description>
+    </item>
+    
     
     
     <item>
