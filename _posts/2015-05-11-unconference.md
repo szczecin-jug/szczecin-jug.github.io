@@ -2,7 +2,7 @@
 layout: post
 title: Porozmawiajmy - spotkanie w formie Unconference (Open Spaces)
 
-excerpt: Unconference - spotkanie polegające na swobodnych rozmowach na dowolne tematy
+excerpt: Unconference - swobodne rozmowy na dowolne tematy
 
 author:
   name: Paweł Stawicki
