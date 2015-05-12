@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Porozmawiajmy - spotkanie w formie Unconference (Open Spaces)
+title: Unconference (Open Spaces) - Porozmawiajmy
 
 excerpt: Unconference - swobodne rozmowy na dowolne tematy
 
@@ -10,7 +10,7 @@ author:
   image: stawicki.jpg
 ---
 
-Zapraszamy na kolejne spotkanie Szczecin JUG! Tym razem odbędzie się ono w formie unconference, zwanej też Open Spaces.
+Zapraszamy na kolejne spotkanie Szczecin JUG! Tym razem odbędzie się ono w formie Unconference, zwanej też Open Spaces.
 
 Na czym polega Unconference? Na luźnych rozmowach o... o czym będziemy chcieli :) 
 Na początku pozbieramy tematy. Każdy będzie mógł zaproponować jakiś na karteczce i przykleić do tablicy.
@@ -32,6 +32,8 @@ Naszymi partnerami są <a href="http://klaster.it/pl/">klaster.it</a> oraz
 Dzięki sponsorowi, firmie <a href="http://www.ncdc.eu/">NCDC</a>, będziemy mieli dla Was dwie książki, które rozlosujemy wśród uczestników. 
 Natomiast od firmy <a href="https://www.jetbrains.com/">JetBrains</a> mamy licencję na dowolny produkt tej firmy 
 (IntelliJ IDEA, PhpStorm, RubyMine, PyCharm i wiele innych).
+
+Spotkanie potrwa ok. 4 godzin. Zapewniamy kawę i ciasteczka :)
 
 Zapraszamy!
 
