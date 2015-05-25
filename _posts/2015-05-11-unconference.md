@@ -44,7 +44,7 @@ Zapraszamy!
 
 
 <div style="text-align: center">
-	<img src="/images/technopark-budynek-f2.jpg"/>
+	<img src="/images/technopark-bud-f2.png"/>
 </div>
 
 
