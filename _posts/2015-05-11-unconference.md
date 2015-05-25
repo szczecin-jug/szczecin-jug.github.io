@@ -41,13 +41,13 @@ Zapraszamy!
 
 **Miejsce:** Technopark Pomerania, ul. Cyfrowa 6, Szczecin, budynek F2, sala C.0.13
 
+**Rejestracja:** <a href="http://www.meetup.com/Szczecin-Java-Users-Group/events/222480846/">Meetup</a>
 
+Spotkanie jest darmowe i otwarte dla wszystkich, jednak prosimy o rejestrację żeby ułatwić nam organizacje.
 
 <div style="text-align: center">
 	<img src="/images/technopark-bud-f2.png"/>
 </div>
-
-
 
 ##Sponsorzy
 
