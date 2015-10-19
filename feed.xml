@@ -6,9 +6,97 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 11 Jun 2015 10:08:36 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2015 10:08:36 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2015 20:35:43 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2015 20:35:43 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Spotkanie o Dropwizard &amp; Spring Boot</title>
+      <link>http://szczecin-jug.github.io/2015/10/19/spotkanie-dropwizard-spring-boot/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2015/10/19/spotkanie-dropwizard-spring-boot</guid>
+      <description><![CDATA[<p><img src="/images/dropwizard-springboot.png" alt="Dropwizard &amp; Spring Boot" title="Spotkanie o Dropwizard i Spring Boot" /></p>
+
+<p>26 października odbędzie się spotkanie <strong>Szczecin JUG</strong>, na którym przedstawione zostaną dwa rozwiązania w Javie alternatywne dla 
+ Java EE i serwerów aplikacji.</p>
+
+<p>Pierwszym z nich jest <strong><a href="http://dropwizard.io">Dropwizard</a></strong>, o którym opowie <strong>Maciej Łotysz</strong> w prezentacji <strong>“Simple web application architecture”</strong>.
+Dropwizard jest lekkim frameworkiem webowym, ukierunkowanym na RESTowe webservices, który powstał w trakcie prac nad aplikacją <a href="https://www.yammer.com/">Yammer</a>. 
+Maciej przedstawi architekturę i komponenty aplikacji webowej dla nowej wersji systemu dla sprzedaży opartą o framework Dropwizard.</p>
+
+<p>Drugą prezentację - <strong>“Spring Boot in Action”</strong> poprowadzę ja (<strong>Maciej Walkowiak</strong>). <strong><a href="http://projects.spring.io/spring-boot/">Spring Boot</a></strong> jest w tej chwili najgorętszym projektem ze stajni Spring’a, 
+zmieniającym pracę w Javie w czystą przyjemność.
+Pokażę jak rozpocząć pracę ze Spring Bootem, jego możliwości oraz zademonstruję jak stworzyć działającą aplikację w kilka minut.</p>
+
+<p>Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie <strong><a href="http://blstream.com/">BLStream</a></strong>!</p>
+
+<div style="text-align: center; width: 75%; margin: 0 auto">
+ 	<a href="http://blstream.com"><img src="http://wrotqa.org/wp-content/uploads/2014/10/blstream2.png" /></a>
+ </div>
+
+<h2 id="prelegenci">Prelegenci</h2>
+
+<div class="speaker">
+              	<div class="avatar-container">
+              		<img src="http://szjug.pl/images/maciej-lotysz.jpg " />
+              	</div>
+
+              	<div>
+              		<h4>Maciej Łotysz</h4>
+              		<p>Programista platformy JVM, inżynier oprogramowania w <a href="http://blstream.com/">BLStream</a>. Aktualnie pod wrażeniem języka Clojure.</p>
+
+                 </div>
+              </div>
+
+<div class="speaker">
+              	<div class="avatar-container">
+              		<img src="https://pbs.twimg.com/profile_images/453170120819351552/HzuP1CoL_400x400.jpeg " />
+              	</div>
+
+              	<div>
+              		<h4>Maciej Walkowiak</h4>
+              		<p>Programista Java z 8 letnim stażem, od początku związany ze Springiem. Kontrybutor projektów Spring Boot i Spring Data MongoDB. 
+	Od stycznia co-leader Szczecin Java User Group. Wierzy, że kod powinien nie tylko działać, ale również elegancko wyglądać.</p>
+
+                 </div>
+              </div>
+
+<h2 id="agenda">Agenda</h2>
+
+<ul>
+  <li><strong>17:30</strong> - Rozpoczęcie</li>
+  <li><strong>17:40</strong> - “Simple web application architecture” - <strong>Maciej Łotysz</strong></li>
+  <li><strong>18:50</strong> - “Spring Boot in Action” - <strong>Maciej Walkowiak</strong></li>
+  <li><strong>19:50</strong> - Zakończenie i losowanie nagród</li>
+</ul>
+
+<h2 id="goodies">Goodies</h2>
+
+<p>Na spotkaniu rozlosowana zostanie licencja na dowolny produkt <strong><a href="http://jetbrains.com">JetBrains</a></strong> (np. <a href="https://www.jetbrains.com/idea/">Intellij IDEA</a>) oraz książki:</p>
+
+<div class="container" style="text-align: center">
+    <a href="https://www.packtpub.com/application-development/learning-spring-boot" style="margin-right: 5%"><img style="max-width: 30%" src="https://www.packtpub.com/sites/default/files/3021OS_Learning%20Spring%20Boot.jpg" /></a>
+    <a href="https://pragprog.com/book/vsjava8/functional-programming-in-java"><img style="max-width: 30%" src="https://imagery.pragprog.com/products/343/vsjava8.jpg?1362075649" /></a>
+</div>
+
+<h2 id="rejestracja">Rejestracja</h2>
+
+<p>Wstęp i rejestracja jest oczywiście darmowa. Prosimy o zarejestrowanie się na wydarzenie na <a href="http://www.meetup.com/Szczecin-Java-Users-Group/events/225853540/">Meetup</a> lub <a href="https://www.facebook.com/events/1639333282973588/">Facebook</a>.</p>
+
+<h2 id="lokalizacja">Lokalizacja</h2>
+<p>Spotykamy się w klubie <strong><a href="https://www.facebook.com/Hormon1">Hormon</a></strong></p>
+
+<div style="text-align: center">
+    
+	<a href="https://www.facebook.com/Hormon1"><img style="height: 250px" src="/images/hormon.jpg" /></a>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.9988362805716!2d14.542357115700955!3d53.43272907593864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa091589f798ed%3A0x3e9085122cca5d75!2sHormon.+Klub!5e0!3m2!1sen!2sde!4v1445285036786" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+]]></description>
+    </item>
+    
     
     
     <item>
