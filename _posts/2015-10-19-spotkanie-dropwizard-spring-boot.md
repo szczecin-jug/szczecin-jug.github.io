@@ -31,6 +31,11 @@ Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[BLStream](http://
  	<a href="http://blstream.com"><img src="{{ site.base_url }}/images/sponsors/blstream.png"></a>
  </div>
  
+BLStream działa na rynku technologii informatycznych od 1999 r, tworząc oprogramowanie dla wiodących firm w sektorach Automotive, 
+Telekomunikacja, Finanse, Media, eCommerce i szeroko pojętym sektorze związanym Internetem Rzeczy. 
+Jej specjalność to zaawansowane rozwiązania klasy Enterprise w architekturze Client-Server oraz aplikacje mobilne i webowe dla klientów z Europy i Stanów. 
+Aplikacje BLStream działają na ponad 100 milionach urządzeń przenośnych na całym świecie.
+ 
 ## Prelegenci
 
 {% speaker Maciej Łotysz,http://szjug.pl/images/maciej-lotysz.jpg %}
