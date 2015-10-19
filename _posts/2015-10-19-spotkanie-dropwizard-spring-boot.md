@@ -27,8 +27,8 @@ Pokażę jak rozpocząć pracę ze Spring Bootem, jego możliwości oraz zademon
  
 Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[BLStream](http://blstream.com/)**!
  
- <div style="text-align: center; width: 75%; margin: 0 auto">
- 	<a href="http://blstream.com"><img src="http://wrotqa.org/wp-content/uploads/2014/10/blstream2.png"></a>
+ <div style="text-align: center; margin: 0 auto">
+ 	<a href="http://blstream.com"><img src="{{ site.base_url }}/images/sponsors/blstream.png"></a>
  </div>
  
 ## Prelegenci
