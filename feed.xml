@@ -6,8 +6,8 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 19 Oct 2015 20:35:43 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2015 20:35:43 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2015 20:52:42 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2015 20:52:42 +0000</lastBuildDate>
 
     
     
@@ -32,8 +32,8 @@ Pokażę jak rozpocząć pracę ze Spring Bootem, jego możliwości oraz zademon
 
 <p>Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie <strong><a href="http://blstream.com/">BLStream</a></strong>!</p>
 
-<div style="text-align: center; width: 75%; margin: 0 auto">
- 	<a href="http://blstream.com"><img src="http://wrotqa.org/wp-content/uploads/2014/10/blstream2.png" /></a>
+<div style="text-align: center; margin: 0 auto">
+ 	<a href="http://blstream.com"><img src="/images/sponsors/blstream.png" /></a>
  </div>
 
 <h2 id="prelegenci">Prelegenci</h2>
