@@ -33,7 +33,7 @@ Spotkanie odbędzie się dzięki naszemu sponsorowi, firmie **[BLStream](http://
  
 ## Prelegenci
 
-{% speaker Maciej Łotysz,http://localhost:4000/images/maciej-lotysz.jpg %}
+{% speaker Maciej Łotysz,http://szjug.pl/images/maciej-lotysz.jpg %}
 	Programista platformy JVM, inżynier oprogramowania w [BLStream](http://blstream.com/). Aktualnie pod wrażeniem języka Clojure.
 {% endspeaker %}
 
