@@ -71,7 +71,6 @@ Wstęp i rejestracja jest oczywiście darmowa. Prosimy o zarejestrowanie się na
 Spotykamy się w klubie **[Hormon](https://www.facebook.com/Hormon1)**
 
 <div style="text-align: center">
-    
 	<a href="https://www.facebook.com/Hormon1"><img style="height: 250px" src="{{ site.base_url }}/images/hormon.jpg"></a>
 </div>
 
