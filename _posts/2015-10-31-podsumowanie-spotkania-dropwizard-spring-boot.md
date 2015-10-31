@@ -2,7 +2,7 @@
 layout: post
 title: Podsumowanie spotkania o Dropwizard &amp; Spring Boot
 
-excerpt: Już 26 października odbędzie się kolejne spotkanie JUG'a - tym razem posłuchamy i porozmawiamy o **Dropwizard** i **Spring&nbsp;Boot**.
+excerpt: Minął prawie tydzień od spotkania **"Dropwizard & Spring Boot"**, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków.
 
 
 author:
@@ -12,10 +12,10 @@ author:
   image: walkowiak.jpg
 ---
 
-Minął prawie tydzień od spotkania **"Dropwizard & Spring Boot"**, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka przemyśleń.
+Minął prawie tydzień od spotkania **"Dropwizard & Spring Boot"**, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków.
 
-Dla tych, którzy nie mieli możliwości się pojawić - na spotkaniu było blisko 40 osób, pojawiło się dość sporo nowych twarzy,
-miło było zobaczyć również stałych bywalców. Mieliśmy okazję zobaczyć dwie prezentacje: *"Simple Web Application Architecture"* oraz *"Spring Boot in Action"*.
+Na spotkaniu było blisko 40 osób, pojawiło się dość sporo nowych twarzy,
+miło było zobaczyć również stałych bywalców. Mieliśmy okazję posłuchać dwóch prezentacji: *"Simple Web Application Architecture"* oraz *"Spring Boot in Action"*.
 
 ![Dropwizard & Spring Boot]({{ site.base_url }}/images/dropwizard-springboot-meetup2.jpg "Spotkanie o Dropwizard i Spring Boot")
 
@@ -41,16 +41,16 @@ integracji Dropwizarda z [Kibaną](https://www.elastic.co/products/kibana) i [Gr
 
 W drugiej prezentacji opowiadałem (**Maciej Walkowiak**) o [Spring Boot](http://projects.spring.io/spring-boot/). Przedstawiłem genezę powstania tego narzędzia, oraz problemy które rozwiązuje.
 W kolejnym kroku pokazałem "na żywo", jak stworzyć aplikację na Spring Boot od zera wykorzystując [start.spring.io](http://start.spring.io), 
-zasadę działania starter pomów oraz autokonfiguracji, oraz stworzyłem prostą aplikację - chat - wykorzystującą Server Sent Events do komunikacji real time.
+zasadę działania starter pomów i autokonfiguracji, oraz stworzyłem prostą aplikację - chat - wykorzystującą Server Sent Events do komunikacji real time.
 
-Niestety, live coding nie przebiegł według planu, nie udało mi się uruchomić aplikacji z PostgreSQL (przez błędne podpowiadanie propertiesów w Intellij jak się później okazało),
+Niestety, live coding nie przebiegł według planu, nie udało mi się uruchomić aplikacji z PostgreSQL (jak się później okazało, przez błędne podpowiadanie propertiesów w Intellij),
  przez co nie pokazałem również planowanego [Flyway'a](http://flywaydb.org/). Następnym razem się poprawię!
  
 **[Slajdy](https://speakerdeck.com/maciejwalkowiak/spring-boot-in-action)**
  
 ## Ankieta
 
-Po spotkaniu, jak zawsze rozesłaliśmy ankietę, od tego razu jednak zaczynamy się dzielić z Wami wynikami.
+Po spotkaniu, jak zawsze rozesłaliśmy ankietę, od teraz będziemy dzielić się z Wami wynikami.
 
 Ankietę wypełniło 12 osób - którym bardzo dziękujemy. 
  
@@ -70,7 +70,7 @@ Zgoda. Przypominamy jednak, że zmigrowaliśmy na [meetup.com](www.meetup.com/Sz
 
 > "Mikrofony nie trzymane w ręce a przyklejone do ciała :-)"
 
-Z mikrofonami nawaliliśmy, przyznam że nie dowiedziałem jakie mikrofony są w Hormonie. Czas zainwestować w własny sprzęt!
+Z mikrofonami nawaliliśmy, przyznam że nie dowiedziałem się jakie mikrofony są w Hormonie. Czas zainwestować we własny sprzęt!
 
 > "Mysle ze kuchnia powinna byc otwarta, lub inne miejsce w ktorym mozna tez cos zjesc podczas spotkania. Najczesciej ludzie przychodza prosto z pracy wiec glod doskwiera ;)"
 
@@ -84,8 +84,9 @@ Jeśli ktoś z Was dysponuje sprzętem i umiejętnościami, zapraszamy do wspó�
 ## Wnioski
 
 - w przyszłości spotkania będziemy organizować w klubie **Hormon**, jeśli Hormon taką chęć też wyrazi
-- będziemy celować w dni tygodnia od poniedziałku do czwartku, a jeśli jednak okaże się, że spotkanie jest w poniedziałek zamówimy pizzę
+- będziemy celować w dni tygodnia od wtorku do czwartku, a jeśli jednak okaże się, że spotkanie jest w poniedziałek zamówimy pizzę
 - jeśli w przyszłości ktoś będzie robić live coding, przygotujemy przypinany mikrofon
+- informacje o spotkaniach będziemy wrzucać również na grupę dyskusyjną
 - wszystkich zapraszamy do rejestracji w grupie na **[meetup.com](www.meetup.com/Szczecin-Java-Users-Group/)** aby już nikt nigdy nie przegapił spotkania
 
 Do zobaczenia na kolejnym spotkaniu!
