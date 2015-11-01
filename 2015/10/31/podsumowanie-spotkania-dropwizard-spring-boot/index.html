@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podsumowanie spotkania o Dropwizard &amp; Spring Boot &mdash; Szczecin Java User Group</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,700,600,400" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/szjug-logo-small.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Szczecin Java User Group" />
+    <meta name="title" content="Podsumowanie spotkania o Dropwizard &amp; Spring Boot ">
+    <link rel="canonical" href="http://szczecin-jug.github.io/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot/">
+     
+           
+    <meta property="og:title" content="Podsumowanie spotkania o Dropwizard &amp; Spring Boot "/>
+    <meta property="og:url" content="http://szczecin-jug.github.io/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot/"/>
+    
+    
+    <meta property="og:description" content="Minął prawie tydzień od spotkania **"Dropwizard & Spring Boot"**, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków."/>
+    <meta name="description" content="Minął prawie tydzień od spotkania **"Dropwizard & Spring Boot"**, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków."/>
+    
+    <meta property="og:site_name" content="Szczecin Java User Group">     
+</head>
+<body>
+    
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                Szczecin JUG
+            </a>
+            <a href="/news/" class="home">News</a>
+            <a href="/about/">O Nas</a>
+            <a href="https://groups.google.com/forum/#!forum/szczecin-jug">Grupa Dyskusyjna</a>
+        </nav>
+        <nav class="tagline">
+            <span>Dołącz do nas na </span>
+            <a href="http://www.meetup.com/Szczecin-Java-Users-Group/" class="btn btn-outline">meetup.com</a>
+        </nav>
+    </header>
+</section>
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="" title="Maciej Walkowiak" target="_blank">Maciej Walkowiak</a></address> &mdash;
+                <time pubdate datetime="2015-31-October" title="October 31, 2015">October 31, 2015</time>
+            </div>
+            <h1 class="title">Podsumowanie spotkania o Dropwizard &amp; Spring Boot</h1>
+            
+        </header>
+
+        <section>
+            <p>Minął prawie tydzień od spotkania <strong>“Dropwizard &amp; Spring Boot”</strong>, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków.</p>
+
+<p>Na spotkaniu było blisko 40 osób, pojawiło się dość sporo nowych twarzy,
+miło było zobaczyć również stałych bywalców. Mieliśmy okazję posłuchać dwóch prezentacji: <em>“Simple Web Application Architecture”</em> oraz <em>“Spring Boot in Action”</em>.</p>
+
+<p><img src="/images/dropwizard-springboot-meetup2.jpg" alt="Dropwizard &amp; Spring Boot" title="Spotkanie o Dropwizard i Spring Boot" /></p>
+
+<p>Więcej zdjęć w <a href="http://www.meetup.com/Szczecin-Java-Users-Group/photos/26512429/#443576468">galerii na meetup</a>.</p>
+
+<h2 id="simple-web-application-architecture">Simple Web Application Architecture</h2>
+
+<div style="text-align: center">
+	<a href="/slides/Simple web application architecture.pdf"><img src="/images/simple-web-application-architecture.jpg" alt="Simple Web Application Architecture by Maciej Łotysz" /></a>
+</div>
+
+<p>W pierwszej prezentacji <strong>Maciej Łotysz</strong> przedstawił historię migracji aplikacji na Dropwizard’a i korzyści jakie z tego wynikają.
+Opowiedział po krótce między innymi o bibliotece <a href="http://metrics.dropwizard.io/3.1.0/">Dropwizard Metrics</a> oraz <a href="http://jdbi.org/">JDBI</a>,
+integracji Dropwizarda z <a href="https://www.elastic.co/products/kibana">Kibaną</a> i <a href="http://grafana.org">Grafaną</a> - dużo ciekawych narzędzi, których wspólnym mianownikiem jest prostota i łatwość nauczenia.</p>
+
+<p><strong><a href="/slides/Simple web application architecture.pdf">Slajdy</a></strong></p>
+
+<h2 id="spring-boot-in-action">Spring Boot in Action</h2>
+
+<div style="text-align: center">
+	<a href="https://speakerdeck.com/maciejwalkowiak/spring-boot-in-action"><img src="/images/spring-boot-in-action.jpeg" alt="Spring Boot in Action by Maciej Walkowiak" /></a>
+</div>
+
+<p>W drugiej prezentacji opowiadałem (<strong>Maciej Walkowiak</strong>) o <a href="http://projects.spring.io/spring-boot/">Spring Boot</a>. Przedstawiłem genezę powstania tego narzędzia, oraz problemy które rozwiązuje.
+W kolejnym kroku pokazałem “na żywo”, jak stworzyć aplikację na Spring Boot od zera wykorzystując <a href="http://start.spring.io">start.spring.io</a>, 
+zasadę działania starter pomów i autokonfiguracji, oraz stworzyłem prostą aplikację - chat - wykorzystującą Server Sent Events do komunikacji real time.</p>
+
+<p>Niestety, live coding nie przebiegł według planu, nie udało mi się uruchomić aplikacji z PostgreSQL (jak się później okazało, przez błędne podpowiadanie propertiesów w Intellij),
+ przez co nie pokazałem również planowanego <a href="http://flywaydb.org/">Flyway’a</a>. Następnym razem się poprawię!</p>
+
+<p><strong><a href="https://speakerdeck.com/maciejwalkowiak/spring-boot-in-action">Slajdy</a></strong></p>
+
+<h2 id="ankieta">Ankieta</h2>
+
+<p>Po spotkaniu, jak zawsze rozesłaliśmy ankietę, od teraz będziemy dzielić się z Wami wynikami.</p>
+
+<p>Ankietę wypełniło 12 osób - którym bardzo dziękujemy. </p>
+
+<p><img src="/images/dropwizard-ankieta1.png" alt="Ankieta" />
+<img src="/images/dropwizard-ankieta2.png" alt="Ankieta" /></p>
+
+<h3 id="co-powinnimy-zrobic-lepiej">Co powinniśmy zrobic lepiej?</h3>
+
+<blockquote>
+  <p>“Byle nie w poniedziałki…”</p>
+</blockquote>
+
+<p>Wybór terminu nie jest łatwy, gdyż trzeba zgrać nasz dosyć napięty grafik z dostępnością lokali.
+Postaramy się w przyszłości organizować we wtorek - czwartek, jeśli tak Wam bardziej odpowiada, obiecać nic jednak nie możemy.</p>
+
+<blockquote>
+  <p>“Pamiętać o dodaniu posta na grupie dyskusyjnej na Google, bo chyba nie zostalo dodane. Gdyby nie znajomy to bym nawet nie widział że jest spotkanie”</p>
+</blockquote>
+
+<p>Zgoda. Przypominamy jednak, że zmigrowaliśmy na <a href="www.meetup.com/Szczecin-Java-Users-Group/">meetup.com</a> - i Meetup jest teraz naszym głównym miejscem ogłaszania spotkań. Zapraszamy do rejestracji w grupie na Meetupie :-)</p>
+
+<blockquote>
+  <p>“Mikrofony nie trzymane w ręce a przyklejone do ciała :-)”</p>
+</blockquote>
+
+<p>Z mikrofonami nawaliliśmy, przyznam że nie dowiedziałem się jakie mikrofony są w Hormonie. Czas zainwestować we własny sprzęt!</p>
+
+<blockquote>
+  <p>“Mysle ze kuchnia powinna byc otwarta, lub inne miejsce w ktorym mozna tez cos zjesc podczas spotkania. Najczesciej ludzie przychodza prosto z pracy wiec glod doskwiera ;)”</p>
+</blockquote>
+
+<p>Dla nas też niespodzianka - poniedziałek jest jedynym dniem kiedy w Hormonie kuchnia jest nieczynna.</p>
+
+<blockquote>
+  <p>“Można pomyśleć o nagrywaniu i udostępnianiu filmików z prezentacji. Warto byłoby też udostępniać prezentacje (PDF) na stronie.”</p>
+</blockquote>
+
+<p>Zaczniemy od udostępniania slajdów. Nagrywanie próbowaliśmy przy okazji Szczecin.Scala, jednak jakość nagrań pozostała wiele do życzenia.
+Jeśli ktoś z Was dysponuje sprzętem i umiejętnościami, zapraszamy do współpracy :-)</p>
+
+<h2 id="wnioski">Wnioski</h2>
+
+<ul>
+  <li>w przyszłości spotkania będziemy organizować w klubie <strong>Hormon</strong>, jeśli Hormon taką chęć też wyrazi</li>
+  <li>będziemy celować w dni tygodnia od wtorku do czwartku, a jeśli jednak okaże się, że spotkanie jest w poniedziałek zamówimy pizzę</li>
+  <li>jeśli w przyszłości ktoś będzie robić live coding, przygotujemy przypinany mikrofon</li>
+  <li>informacje o spotkaniach będziemy wrzucać również na grupę dyskusyjną</li>
+  <li>wszystkich zapraszamy do rejestracji w grupie na <strong><a href="www.meetup.com/Szczecin-Java-Users-Group/">meetup.com</a></strong> aby już nikt nigdy nie przegapił spotkania</li>
+</ul>
+
+<p>Do zobaczenia na kolejnym spotkaniu!</p>
+
+
+            
+<div class="social">
+    <div>
+        <a href="https://twitter.com/share" class="twitter-share-button"  data-text="Podsumowanie spotkania o Dropwizard &amp; Spring Boot" data-related="szjug">Tweet</a>
+    </div>
+    
+    
+    <div>
+        <div class="fb-like" data-width="150" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+    </div>
+    
+    
+    <div>
+        <div class="g-plusone" data-size="medium"></div>
+    </div>
+    
+    
+    
+</div>
+
+        </section>
+
+        <footer>
+            <address>
+               <img src="/images/walkowiak.jpg">
+                <p>Written by <strong><a rel="author" href="https://twitter.com/maciejwalkowiak" title="" target="_blank">Maciej Walkowiak</a></strong><br>
+                <span class="muted">Co-Leader</span>
+                </p>
+            </address>
+
+        </footer>
+
+        
+        <section>
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'szjug'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+        </section>
+        
+    </div>
+</article>
+
+
+<footer class="site-footer">
+
+    <div class="container">
+        <div class="logo-container">
+            <img src="/images/szjug-logo-small.png" alt="Szczecin JUG">
+        </div>
+
+        &copy; 2015 
+        
+        <nav>
+            <a href="http://szczecin-jug.github.io/http://szczecin-jug.github.io/">Szczecin Java User Group</a> &middot;
+            <a href="http://szczecin-jug.github.io/news/">News</a> &middot;
+            <a href="http://szczecin-jug.github.io/about/">O Nas</a> &middot;
+            <a href="https://groups.google.com/forum/#!forum/szczecin-jug">Grupa dyskusyjna</a> &middot;
+        </nav>
+        
+        <nav class="social">
+            <a href="https://twitter.com/szjug" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+            <a href="http://facebook.com/szjug" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss black"></i>
+            </a>
+        </nav>
+        <p>Modified "Incorporated" theme by <a href="https://sendtoinc.com">Inc</a></p>
+    </div>
+</footer>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/assets/main.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=253595308025739";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-60174692-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+</html>
