@@ -66,7 +66,7 @@ Postaramy się w przyszłości organizować we wtorek - czwartek, jeśli tak Wam
 
 > "Pamiętać o dodaniu posta na grupie dyskusyjnej na Google, bo chyba nie zostalo dodane. Gdyby nie znajomy to bym nawet nie widział że jest spotkanie"
 
-Zgoda. Przypominamy jednak, że zmigrowaliśmy na [meetup.com](www.meetup.com/Szczecin-Java-Users-Group/) - i Meetup jest teraz naszym głównym miejscem ogłaszania spotkań. Zapraszamy do rejestracji w grupie na Meetupie :-)
+Zgoda. Przypominamy jednak, że zmigrowaliśmy na [meetup.com](http://www.meetup.com/Szczecin-Java-Users-Group/) - i Meetup jest teraz naszym głównym miejscem ogłaszania spotkań. Zapraszamy do rejestracji w grupie na Meetupie :-)
 
 > "Mikrofony nie trzymane w ręce a przyklejone do ciała :-)"
 
@@ -87,7 +87,7 @@ Jeśli ktoś z Was dysponuje sprzętem i umiejętnościami, zapraszamy do wspó�
 - będziemy celować w dni tygodnia od wtorku do czwartku, a jeśli jednak okaże się, że spotkanie jest w poniedziałek zamówimy pizzę
 - jeśli w przyszłości ktoś będzie robić live coding, przygotujemy przypinany mikrofon
 - informacje o spotkaniach będziemy wrzucać również na grupę dyskusyjną
-- wszystkich zapraszamy do rejestracji w grupie na **[meetup.com](www.meetup.com/Szczecin-Java-Users-Group/)** aby już nikt nigdy nie przegapił spotkania
+- wszystkich zapraszamy do rejestracji w grupie na **[meetup.com](http://www.meetup.com/Szczecin-Java-Users-Group/)** aby już nikt nigdy nie przegapił spotkania
 
 Do zobaczenia na kolejnym spotkaniu!
 
