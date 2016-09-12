@@ -38,6 +38,11 @@ kiedy mówią.
 ### Marcin Kawelski - [remotee.me](http://remotee.me)
 "Jak być dobrym programistą"
 
+## Sponsorzy
+
+<a href="https://www.globallogic.com/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/GlobalLogic-logo.jpg"></a>
+<a href="https://consileon.pl/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/consileon_logo.gif"></a>
+
 ## Agenda
 
 - **18:00** - Zmiany i nowości w Szczecin JUG - **Marcin Kawelski**
@@ -57,7 +62,7 @@ Na spotkaniu rozlosowana zostanie licencja na dowolny produkt **[JetBrains](http
 Spotykamy się w klubie **[Hormon](https://www.facebook.com/Hormon1)**
 
 <div style="text-align: center">
-	<a href="https://www.facebook.com/Hormon1"><img style="height: 250px" src="{{ site.base_url }}/images/hormon.jpg"></a>
+	<a href="https://www.facebook.com/Hormon1"><img style="height: 50px" src="{{ site.base_url }}/images/hormon.jpg"></a>
 </div>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.9988362805716!2d14.542357115700955!3d53.43272907593864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa091589f798ed%3A0x3e9085122cca5d75!2sHormon.+Klub!5e0!3m2!1sen!2sde!4v1445285036786" width="100%" height="250" frameborder="0" style="border:0"></iframe>
