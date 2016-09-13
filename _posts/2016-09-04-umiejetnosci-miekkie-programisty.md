@@ -42,6 +42,7 @@ kiedy mówią.
 
 <a href="https://www.globallogic.com/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/GlobalLogic-logo.jpg"></a>
 <a href="https://consileon.pl/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/consileon_logo.gif"></a>
+<a href="https://intive.com/"><img style="max-height: 50px; margin-left: 30px;" src="{{ site.base_url }}/images/sponsors/intive.png"></a>
 
 ## Agenda
 
