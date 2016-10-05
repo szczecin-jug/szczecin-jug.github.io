@@ -14,9 +14,9 @@ author:
 
 ![IT na miękko]({{ site.base_url }}/images/it_na_miekko.png "IT na miękko")
 
-Dziękujemy wszystkim za przybycie i aktywność na spotkaniu. Było nas ponad ***80 osób*** co przekroszyło nasze oczekiwania!
+Dziękujemy wszystkim za przybycie i aktywność na spotkaniu. Było nas ponad ***80 osób*** co znacznie przekroczyło nasze oczekiwania!
 
-Dzieki naszym ***sponsorom*** wysłuchaliśmy ***trzech ciekawych prezentacji*** oraz rozlosowaliśmy ***cztery książki***.
+Dzięki naszym ***sponsorom*** wysłuchaliśmy ***trzech ciekawych prezentacji*** oraz rozlosowaliśmy ***cztery książki***.
 A dzięki firmie [JetBrains](https://www.jetbrains.com/) mogliśmy wylosować indywidualną licencje na dowolny produkt tej firmy.
 
 Kilka ***zdjęć*** ze spotkania możecie zobaczyć [tutaj](https://web.facebook.com/media/set/?set=a.691894047633353.1073741835.131555067000590&type=1&l=f4747d433e)
