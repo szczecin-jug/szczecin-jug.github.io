@@ -12,4 +12,4 @@ Przez wielu uznawane za najlepsze IDE do Javy.
 
 [Dołącz do nas!](http://www.meetup.com/Szczecin-Java-Users-Group/) by dzielić się wiedzą i doświadczeniem oraz poznawać ciekawych ludzi!
 
-**Każdy może zostać prelegentem!** Jeśli chcesz się sprawdzić i wystąpić przed grupą zapalonych programistów, skontaktuj się z liderem grupy. Dodatkowo możesz dostać roczny darmowy dostęp do szkoleń na portalu [JPassion](http://jpassion.com/) oraz licencję na [Retrospective Log Analyzer](http://www.retrospective.centeractive.com/) od firmy [Centeractive](http://www.centeractive.com/).
+**Każdy może zostać prelegentem!** Jeśli chcesz się sprawdzić i wystąpić przed grupą zapalonych programistów, skontaktuj się z jednym z organizatorów grupy.
