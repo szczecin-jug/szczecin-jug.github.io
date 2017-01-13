@@ -3,7 +3,7 @@ layout: post
 title: Spotkanie Noworoczne
 
 
-excerpt: '**25 stycznia o godzinie 18 w klubie Hormon Cafe** odbędzie się kolejne spotkanie Szczecin JUG. Tym razem proponujemy dwie różne, ale bardzo ciekawe prezentacje: **"From rest to lambda architecture and beyond!"** oraz **"Świeżym okiem na Dockera - dlaczego warto?"**.'
+faexcerpt: '**25 stycznia o godzinie 18 w klubie Hormon Cafe** odbędzie się kolejne spotkanie Szczecin JUG. Tym razem proponujemy dwie różne, ale bardzo ciekawe prezentacje: **"From rest to lambda architecture and beyond!"** oraz **"Świeżym okiem na Dockera - dlaczego warto?"**.'
 
 author:
   name: Marcin Kawelski
@@ -38,7 +38,7 @@ Krzysztof jest inżynierem oprogramowania w Tooploox, który "zwiedził" absurda
 
 Prezentacja o tym jak Docker pomaga w codziennym życiu, co ułatwia i jakie problemy rozwiązuje, bez technicznych szczegółów za to z realnymi przykładami.
 
-Łukasz jest świeżo upiczonym, ale bardzo ambitnym programistą pracującym w Teonite. Dzięki temu lepiej rozumie problemy i wyzwania jakie spotykają mniej doświadczonych kolegów oraz wie jaka wiedza jest istotna stawiając pierwsze kroki.
+Łukasz jest świeżo upieczonym, ale bardzo ambitnym programistą pracującym w Teonite. Dzięki temu lepiej rozumie problemy i wyzwania jakie spotykają mniej doświadczonych kolegów oraz wie jaka wiedza jest istotna stawiając pierwsze kroki.
 
 ## Sponsorzy
 
