@@ -2,8 +2,7 @@
 layout: post
 title: Spotkanie Noworoczne
 
-
-faexcerpt: '**25 stycznia o godzinie 18 w klubie Hormon Cafe** odbędzie się kolejne spotkanie Szczecin JUG. Tym razem proponujemy dwie różne, ale bardzo ciekawe prezentacje: **"From rest to lambda architecture and beyond!"** oraz **"Świeżym okiem na Dockera - dlaczego warto?"**.'
+excerpt: '**25 stycznia o godzinie 18 w klubie Hormon Cafe** odbędzie się kolejne spotkanie Szczecin JUG. Tym razem proponujemy dwie różne, ale bardzo ciekawe prezentacje: **"From rest to lambda architecture and beyond!"** oraz **"Świeżym okiem na Dockera - dlaczego warto?"**.'
 
 author:
   name: Marcin Kawelski
