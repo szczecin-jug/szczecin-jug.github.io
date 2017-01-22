@@ -6,8 +6,8 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 13 Jan 2017 23:29:52 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 23:29:52 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2017 20:19:34 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 20:19:34 +0000</lastBuildDate>
 
     
     
@@ -47,7 +47,8 @@
 
 <h2 id="sponsorzy">Sponsorzy</h2>
 
-<p><a href="https://consileon.pl/"><img style="max-width: 300px" src="/images/sponsors/consileon_logo.gif" /></a></p>
+<p><a href="https://consileon.pl/"><img style="max-width: 300px" src="/images/sponsors/consileon_logo.gif" /></a>
+<a style="margin-left:15px;" href="http://www.psi.pl/pl/home/"><img style="max-width: 300px" src="/images/sponsors/logo_psi.png" /></a></p>
 
 <h2 id="agenda">Agenda</h2>
 
