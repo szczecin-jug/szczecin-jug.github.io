@@ -42,6 +42,7 @@ Prezentacja o tym jak Docker pomaga w codziennym życiu, co ułatwia i jakie pro
 ## Sponsorzy
 
 <a href="https://consileon.pl/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/consileon_logo.gif"></a>
+<a style="margin-left:15px;" href="http://www.psi.pl/pl/home/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/logo_psi.png"></a>
 
 ## Agenda
 
