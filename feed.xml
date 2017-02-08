@@ -6,9 +6,50 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 22 Jan 2017 20:19:34 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 20:19:34 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 22:51:15 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 22:51:15 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Spotkanie Noworoczne - prezentacje</title>
+      <link>http://szczecin-jug.github.io/2017/02/07/krzysiek_lukasz_prezentacje/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2017/02/07/krzysiek_lukasz_prezentacje</guid>
+      <description><![CDATA[<p><img src="/images/spotkanie_noworoczne.jpg" alt="Spotkanie Noworoczne" title="Spotkanie noworoczne" /></p>
+
+<p>25 stycznia w klubie Hormon Cafe odbyło się kolejne spotkanie Szczecin JUG. Przybyło <strong><em>ponad 60 uczestników</em></strong>. Tym razem zaproponowaliśmy dwie różne, ale bardzo ciekawe prezentacje: <strong>“From rest to lambda architecture and beyond!”</strong> oraz <strong>“Świeżym okiem na Dockera - dlaczego warto?”</strong>. A teraz można zobaczyć nagrania z tych prezentacji.</p>
+
+<p>Dzięki naszym sponsorom <strong><em>3 książki</em></strong> znalazły nowych właścicieli, a dzięki firmie <a href="https://www.jetbrains.com/">JetBrains</a> mogliśmy wylosować indywidualną licencje na dowolny produkt tej firmy.
+Zostały tekże rozdane dwa kupony na bezpłatne wejście na konferencję <a href="https://scalasphere.org/">ScalaSphere</a>.</p>
+
+<h2 id="sponsorzy">Sponsorzy</h2>
+
+<p><a href="https://consileon.pl/"><img style="max-width: 300px" src="/images/sponsors/consileon_logo.gif" /></a>
+<a style="margin-left:15px;" href="http://www.psi.pl/pl/home/"><img style="max-width: 300px" src="/images/sponsors/logo_psi.png" /></a></p>
+
+<h2 id="prelegenci-i-tematy">Prelegenci i tematy</h2>
+
+<h3 id="krzysztof-kaczmarek">Krzysztof Kaczmarek</h3>
+<p><em>“From rest to lambda architecture and beyond!”</em> - <a href="/slides/krzysztof_kaczmarek.pdf">Slajdy</a></p>
+
+<div style="text-align: center;  margin: 50px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEui59WdV_M" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="ukasz-piatowski">Łukasz Piłatowski</h3>
+<p><em>“Świeżym okiem na Dockera - dlaczego warto?”</em> - <a href="http://slides.com/vandavv/swiezym-okiem-na-dockera#/">Slajdy</a></p>
+
+<div style="text-align: center; margin: 50px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JhmsyCHejQ" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="dzikujemy-za-przybycie-i-zapraszamy-ponownie">Dziękujemy za przybycie i zapraszamy ponownie!</h2>
+
+]]></description>
+    </item>
+    
     
     
     <item>
