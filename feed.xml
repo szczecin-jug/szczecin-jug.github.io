@@ -6,9 +6,62 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Wed, 08 Feb 2017 22:51:15 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 22:51:15 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Feb 2017 15:49:21 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2017 15:49:21 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Microservices tracing with Spring Cloud Sleuth and Zipkin</title>
+      <link>http://szczecin-jug.github.io/2017/02/25/microservices/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2017/02/25/microservices</guid>
+      <description><![CDATA[<p><img src="/images/JUG-15-03-2017-page.jpg" alt="Spotkanie Noworoczne" title="Microservices tracing with Spring Cloud Sleuth and Zipkin" /></p>
+
+<p><strong>Szczecin JUG</strong> wraz z firmą <strong>PSI</strong> zapraszają na kolejne spotkanie które odbędzie się <strong>15 marca o godzinie 17 w klubie Hormon Cafe</strong>. Poniżej szczegóły spotkania.</p>
+
+<h2 id="prelekcja">Prelekcja</h2>
+
+<h3 id="microservices-tracing-with-spring-cloud-sleuth-and-zipkin">Microservices tracing with Spring Cloud Sleuth and Zipkin</h3>
+
+<p>Mikroserwisy wciąż zyskują na popularności. Tworzenie efektywnego środowiska rozproszonego nie jest jednak prostym zadaniem. Service Discovery i Registry (Zookeeper / Consul / Eureka), łatwe wysyłanie żądań z równoważeniem obciążenia po stronie klienta (Feign + Ribbon), czy obsługa mechanizmu proxy z wykorzystaniem Zuul - wszystko to staje się możliwe dzięki wykorzystaniu Spring Cloud. Wystarczy dodać zależności, kilka linijek konfiguracji i gotowe. A co z problemem debugowania systemu rozproszonego? Czy spójnosć logów z różnych mikroserwisów i wizualizacja czasów odpowiedzi jest cześcią środowiska? Spring Cloud Sleuth oraz Zipkin przychodzą na ratunek.</p>
+
+<h3 id="o-prelegencie">O prelegencie</h3>
+
+<p><strong>Marcin Grzejszczak</strong> - doświadczony programista, kontrybutor projektów open source (włączając w to Rest-assured, Moco, Mockito). Autor Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler oraz JSONAssert i XMLAssert. Współtwórca Warsaw Groovy User Group i Warsaw Cloud Native Meetup. Autor książek o Mockito. Na co dzień pracuje nad Spring Cloud w Pivotal.</p>
+
+<h2 id="sponsorzy">Sponsorzy</h2>
+
+<p><a style="margin-left:15px;" href="http://www.psi.pl/pl/home/"><img style="max-width: 300px" src="/images/sponsors/logo_psi.png" /></a></p>
+
+<h2 id="agenda">Agenda</h2>
+
+<ul>
+  <li><strong>17:00</strong> - Przywitanie</li>
+  <li><strong>17:15</strong> - Prelekcja - <strong>Marcin Grzejszczak</strong></li>
+  <li><strong>18:30</strong> - Podsumowanie i rozlosowanie nagród</li>
+  <li><strong>19:00</strong> - Zakończenie</li>
+</ul>
+
+<h2 id="goodies">Goodies</h2>
+
+<p>Na spotkaniu rozlosowana zostanie licencja na dowolny produkt <strong><a href="http://jetbrains.com">JetBrains</a></strong> (np. <a href="https://www.jetbrains.com/idea/">Intellij IDEA</a>) oraz jak zwykle kilka ciekawych książek związanych z tematyką wykładu.</p>
+
+<h2 id="lokalizacja">Lokalizacja</h2>
+<p>Spotykamy się w klubie <strong><a href="https://www.facebook.com/Hormon1">Hormon</a></strong> znajdującym się przy ulicy Monte Cassino 6 w Szczecinie.</p>
+
+<div style="text-align: center">
+	<a href="https://www.facebook.com/Hormon1"><img style="height: 50px" src="/images/hormon.jpg" /></a>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.9988362805716!2d14.542357115700955!3d53.43272907593864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa091589f798ed%3A0x3e9085122cca5d75!2sHormon.+Klub!5e0!3m2!1sen!2sde!4v1445285036786" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+
+<h2 id="zapraszamy">ZAPRASZAMY!</h2>
+
+]]></description>
+    </item>
+    
     
     
     <item>
