@@ -13,7 +13,8 @@ author:
 
 ![Spotkanie Noworoczne]({{ site.base_url }}/images/JUG-15-03-2017-page.jpg "Microservices tracing with Spring Cloud Sleuth and Zipkin")
 
-**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie które odbędzie się **15 marca o godzinie 17 w klubie Hormon Cafe**. Poniżej szczegóły spotkania.
+**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie naszej grupy, które odbędzie się **15 marca o godzinie 17 w klubie Hormon Cafe**. Jak zwykle spotkanie jest nieodpłatne, ale zachęcamy do rejestracji na naszej stronie [meetup](https://www.meetup.com/Szczecin-Java-Users-Group/).
+Poniżej szczegóły spotkania.
 
 ## Prelekcja
 
@@ -28,6 +29,10 @@ Mikroserwisy wciąż zyskują na popularności. Tworzenie efektywnego środowisk
 ## Sponsorzy
 
 <a style="margin-left:15px;" href="http://www.psi.pl/pl/home/"><img style="max-width: 300px" src="{{ site.base_url }}/images/sponsors/logo_psi.png"></a>
+
+## Rejestracja
+
+[Meetup](https://www.meetup.com/Szczecin-Java-Users-Group/)
 
 ## Agenda
 
