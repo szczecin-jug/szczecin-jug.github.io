@@ -2,7 +2,7 @@
 layout: post
 title: Microservices tracing with Spring Cloud Sleuth and Zipkin
 
-excerpt: '**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie które odbędzie się **15 marca o godzinie 17 w klubie Hormon Cafe**. Na spotkaniu **Marcin Grzejszczak** wygłosi prelekcję na temat: **"Microservices tracing with Spring Cloud Sleuth and Zipkin"**'
+excerpt: '**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie które odbędzie się **15 marca o godzinie 18 w klubie Hormon Cafe**. Na spotkaniu **Marcin Grzejszczak** wygłosi prelekcję na temat: **"Microservices tracing with Spring Cloud Sleuth and Zipkin"**'
 
 author:
   name: Marcin Kawelski
@@ -13,7 +13,7 @@ author:
 
 ![Spotkanie Noworoczne]({{ site.base_url }}/images/JUG-15-03-2017-page.jpg "Microservices tracing with Spring Cloud Sleuth and Zipkin")
 
-**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie naszej grupy, które odbędzie się **15 marca o godzinie 17 w klubie Hormon Cafe**. Jak zwykle spotkanie jest nieodpłatne, ale zachęcamy do rejestracji na naszej stronie [meetup](https://www.meetup.com/Szczecin-Java-Users-Group/).
+**Szczecin JUG** wraz z firmą **PSI** zapraszają na kolejne spotkanie naszej grupy, które odbędzie się **15 marca o godzinie 18 w klubie Hormon Cafe**. Jak zwykle spotkanie jest nieodpłatne, ale zachęcamy do rejestracji na naszej stronie [meetup](https://www.meetup.com/Szczecin-Java-Users-Group/).
 Poniżej szczegóły spotkania.
 
 ## Prelekcja
