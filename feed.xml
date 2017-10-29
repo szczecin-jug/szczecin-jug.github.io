@@ -6,8 +6,8 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 29 Oct 2017 13:16:09 +0000</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 13:16:09 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 20:04:36 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 20:04:36 +0000</lastBuildDate>
 
     
     
@@ -41,7 +41,7 @@
 
 <hr />
 
-<h3 id="paweł-zal---moje-boje-z-monitorowaniem-sieci-100k-urządzeń">Paweł Zal - “Moje boje z monitorowaniem sieci 100K urządzeń”</h3>
+<h3 id="paweł-żal---moje-boje-z-monitorowaniem-sieci-100k-urządzeń">Paweł Żal - “Moje boje z monitorowaniem sieci 100K urządzeń”</h3>
 
 <p>O tym jak zbudować system oparty o Time Series Database.</p>
 
@@ -53,7 +53,7 @@
 
 <hr />
 
-<h3 id="tomasz-pakula---co-powinieneś-wiedzieć-o-http2">Tomasz Pakula - Co powinieneś wiedzieć o HTTP/2</h3>
+<h3 id="tomasz-pakuła---co-powinieneś-wiedzieć-o-http2">Tomasz Pakuła - Co powinieneś wiedzieć o HTTP/2</h3>
 
 <p>Protokół HTTP jest podstawą działania dzisiejszego internetu. Niezbyt często jednak zastanawiamy się nad tym jak działa. Czym najnowsza wersja tego protokołu czyli HTTP/2 różni się od swojego poprzednika? Jakie problemy rozwiązuje?</p>
 
