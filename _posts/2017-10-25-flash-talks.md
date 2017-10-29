@@ -35,7 +35,7 @@ Dzieki sponsorowi oprócz możliwości organizacji spotkania będzie drobny pocz
 
 ***
 
-### Paweł Zal - "Moje boje z monitorowaniem sieci 100K urządzeń"
+### Paweł Żal - "Moje boje z monitorowaniem sieci 100K urządzeń"
 
 O tym jak zbudować system oparty o Time Series Database.
 
@@ -47,7 +47,7 @@ Pilot oblatywacz w Icotera.com. Zacząłem pracę jako inżynier QA, potem zacz�
 
 ***
   
-### Tomasz Pakula - Co powinieneś wiedzieć o HTTP/2
+### Tomasz Pakuła - Co powinieneś wiedzieć o HTTP/2
 
 Protokół HTTP jest podstawą działania dzisiejszego internetu. Niezbyt często jednak zastanawiamy się nad tym jak działa. Czym najnowsza wersja tego protokołu czyli HTTP/2 różni się od swojego poprzednika? Jakie problemy rozwiązuje?
 
