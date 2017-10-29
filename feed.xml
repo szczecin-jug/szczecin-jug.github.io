@@ -6,9 +6,127 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 06 Mar 2017 11:17:34 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 11:17:34 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 13:16:09 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 13:16:09 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Szczecin JUG Flash Talks</title>
+      <link>http://szczecin-jug.github.io/2017/10/25/flash-talks/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2017/10/25/flash-talks</guid>
+      <description><![CDATA[<p><img src="/images/JUG-8-11-2017-Flash-Talks.png" alt="FlashTalks" title="Szczecin JUG Flash Talks" /></p>
+
+<p><strong>Szczecin JUG</strong> zaprasza na spotkanie o nietypowej formie. <strong>Flash Talks</strong> to prelekcje, w których prezenterzy mają jedynie 15 minut by przekazać możliwie największą porcję wiedzy. Taka forma prezentacji jest wymagająca od prelegenta, ale bardzo ciekawa dla uczestników prelekcji.</p>
+
+<p>Spotkanie odbędzie się <strong>w środę 8 listopada o godzinie 17:30 w Technoparku Pomerania</strong>. Jak zwykle spotkanie jest <strong>nieodpłatne</strong>, ale zachęcamy do rejestracji na naszej stronie <a href="https://www.meetup.com/Szczecin-Java-Users-Group/">meetup</a>.</p>
+
+<hr />
+
+<h1 id="sponsor">Sponsor</h1>
+
+<p>Sponsorem spotkanania jest firma</p>
+
+<div style="text-align: center">
+<a href="https://icotera.com/"><img style="max-width: 500px" src="/images/sponsors/icotera-logo.png" /></a>
+</div>
+
+<p>Dzieki sponsorowi oprócz możliwości organizacji spotkania będzie drobny poczęstunek oraz konkurs z nagrodami.</p>
+
+<hr />
+
+<h1 id="prelekcje">Prelekcje</h1>
+
+<hr />
+
+<h3 id="paweł-zal---moje-boje-z-monitorowaniem-sieci-100k-urządzeń">Paweł Zal - “Moje boje z monitorowaniem sieci 100K urządzeń”</h3>
+
+<p>O tym jak zbudować system oparty o Time Series Database.</p>
+
+<p>Krótka opowieść o doświadczeniach zebranych przy budowaniu systemu do monitorowania sieci 100K+ urządzeń, opartego o komponenty open source. Opowiem o tym jak bazy do obsługi szeregów czasowych odpowiadają na zagadnienia związane z BigData.</p>
+
+<h4 id="o-prelegencie">O prelegencie</h4>
+
+<p>Pilot oblatywacz w Icotera.com. Zacząłem pracę jako inżynier QA, potem zacząłem programować i projektować systemy. Obecnie pracuję nad systemami nadzorującymi urządzenia sieciowe i pozwalające wykrywać problemy i zagrożenia zanim zadzwonić użytkownik końcowy.</p>
+
+<hr />
+
+<h3 id="tomasz-pakula---co-powinieneś-wiedzieć-o-http2">Tomasz Pakula - Co powinieneś wiedzieć o HTTP/2</h3>
+
+<p>Protokół HTTP jest podstawą działania dzisiejszego internetu. Niezbyt często jednak zastanawiamy się nad tym jak działa. Czym najnowsza wersja tego protokołu czyli HTTP/2 różni się od swojego poprzednika? Jakie problemy rozwiązuje?</p>
+
+<h4 id="o-prelegencie-1">O prelegencie</h4>
+
+<p>Jestem inżynierem oprogramowania w firmie Avid. Od kilku lat związany głównie z Javą. Komercyjnie programowaniem zajmuję się od 8 lat choć pierwsze kroki w tym kierunku o wiele wcześniej były związane z językiem Basic na Commodore 64.
+Hobbystycznie zainteresowany tematami związanymi z Machine Learning.</p>
+
+<hr />
+
+<h3 id="dariusz-łuksza---krótka-historia-powstania-habitchallenge">Dariusz Łuksza - Krótka historia powstania <a href="http://HabitChallenge.co/">HabitChallenge</a></h3>
+
+<p>Przedstawię po krótce proces powstawania aplikacji
+HabitChallenge. Od pierwszego commit-u do pierwszych 100 instalacji z
+AppStore i Google Play.</p>
+
+<h4 id="o-prelegencie-2">O prelegencie</h4>
+
+<p>Dariusz Łuksza to między innymi doświadczony programista.
+Programuje głównie w Java, nie są mu obce też Clojure, Swift oraz
+JavaScript. Propagator otwartego oprogramowania. Od dłuższego czasu
+zaangażowanie w OpenSource zamienił na tworzenie własnego biznesu.
+Niedawno stworzył swoją pierwszą publicznie dostępną aplikację mobilną
+dla iOS oraz Android: http://HabitChallenge.co . Pomaga ona mierzyć i
+zmienianiać swoie nawyki.</p>
+
+<hr />
+
+<h3 id="łukasz-piłatowski---jak-zacząć-pisać-frontend-i-nie-zwariować">Łukasz Piłatowski - “Jak zacząć pisać frontend i nie zwariować?”</h3>
+
+<p>Czyli opowieść backend dev’a o tym, jak zacząc pisać w React.js :)</p>
+
+<p>Krótka opowieść o tym, jakich narzędzi użyć i jakich bibliotek, aby w jak najszybszym czasie i najmniejszym nakładzie pracy (i nerwów) postawić podstawową aplikację w React.js komunikującą się z API, gotową do wdrożenia produkcyjnie, a przy tym omówić przydatne biblioteki rozwiązujące najczęściej spotykane problemy w codziennej pracy :)</p>
+
+<h4 id="o-prelegencie-3">O prelegencie</h4>
+
+<p>Łukasz Piłatowski, senior software dev @ TEONITE, kiedyś backend developer w Javie, dzisiaj w głownej mierze frontend dev (React.js) oraz data scientist.</p>
+
+<hr />
+
+<h3 id="grzegorz-adamowicz---gra-w-chmurki---przyszłość-inżynierii-oprogramowania">Grzegorz Adamowicz - Gra w chmurki - przyszłość inżynierii oprogramowania</h3>
+
+<p>Szybkie spojrzenie w architektury aplikacji i trendy rozwoju dzisiaj. Płynne przejście w to, co moze nas spotkać w przyszłości i włożenie kija w mrowisko domysłów.</p>
+
+<h4 id="o-prelegencie-4">O prelegencie</h4>
+
+<p>Inżynier systemów (czyli admin) i samozwańczy architekt aplikacji w chmurze. Posiada doświadczenie pracy w małych firmach (startupach), jak i dużych korporacjach. Fan automatyzacji i zaawansowanego monitoringu aplikacji. Autor wielu artykułów w gazecie drukowanej. Pisuje również opowiadania fantasy i fantastyczno-naukowe. Interesuje go całościowe podejście do biznesu: od operacji (IT), przez finanse, po marketing i sprzedaż.</p>
+
+<hr />
+
+<h1 id="rejestracja">Rejestracja</h1>
+
+<p><a href="https://www.meetup.com/Szczecin-Java-Users-Group/">Meetup</a></p>
+
+<h1 id="lokalizacja">Lokalizacja</h1>
+<p>Dzień: <strong>8 listopada</strong></p>
+
+<p>Godzina: <strong>17:30</strong></p>
+
+<p>Miejsce: <strong>Technopark Pomerania, Budynek F2, Sala 0.12 “Magnolia”, ulica Cyfrowej 4 w Szczecinie.</strong></p>
+
+<div style="text-align: center">
+	<img style="width: 700px" src="/images/technopark-bud-f2.png" />
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.0313419445138!2d14.534005216059274!3d53.45002598000088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa095010ddeac3%3A0x77358a1f557f82b9!2sTechnopark+Pomerania+-+Szczeci%C5%84ski+Park+Naukowo+-+Technologiczny!5e0!3m2!1sen!2spl!4v1509120094006" width="700" height="550" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</div>
+
+<hr />
+
+<h2 id="zapraszamy">ZAPRASZAMY!</h2>
+
+]]></description>
+    </item>
+    
     
     
     <item>
@@ -96,14 +214,14 @@ Zostały tekże rozdane dwa kupony na bezpłatne wejście na konferencję <a hre
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEui59WdV_M" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<h3 id="ukasz-piatowski">Łukasz Piłatowski</h3>
+<h3 id="łukasz-piłatowski">Łukasz Piłatowski</h3>
 <p><em>“Świeżym okiem na Dockera - dlaczego warto?”</em> - <a href="http://slides.com/vandavv/swiezym-okiem-na-dockera#/">Slajdy</a></p>
 
 <div style="text-align: center; margin: 50px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3JhmsyCHejQ" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<h2 id="dzikujemy-za-przybycie-i-zapraszamy-ponownie">Dziękujemy za przybycie i zapraszamy ponownie!</h2>
+<h2 id="dziękujemy-za-przybycie-i-zapraszamy-ponownie">Dziękujemy za przybycie i zapraszamy ponownie!</h2>
 
 ]]></description>
     </item>
@@ -137,7 +255,7 @@ Zostały tekże rozdane dwa kupony na bezpłatne wejście na konferencję <a hre
 
 <p>Krzysztof jest inżynierem oprogramowania w Tooploox, który “zwiedził” absurdalnie duże i bardzo małe projekty dochodząc do wniosku że można stosować dowolne metodyki i narzędzia, tak długo jak robisz to dobrymi ludźmi i w najprostszy z możliwych sposobów. W wolnym czasie mistrz kungfu i autor naprawdę słabych dowcipów.</p>
 
-<h3 id="ukasz-piatowski">Łukasz Piłatowski</h3>
+<h3 id="łukasz-piłatowski">Łukasz Piłatowski</h3>
 <p><em>“Świeżym okiem na Dockera - dlaczego warto?”</em></p>
 
 <p>Prezentacja o tym jak Docker pomaga w codziennym życiu, co ułatwia i jakie problemy rozwiązuje, bez technicznych szczegółów za to z realnymi przykładami.</p>
@@ -205,7 +323,7 @@ A dzięki firmie <a href="https://www.jetbrains.com/">JetBrains</a> mogliśmy wy
 
 <h2 id="nagrania-z-prezentacji">Nagrania z prezentacji</h2>
 
-<h3 id="tomasz-czkowski---globallogichttpswwwgloballogiccom">Tomasz Łączkowski - <a href="https://www.globallogic.com/">Globallogic</a></h3>
+<h3 id="tomasz-łączkowski---globallogic">Tomasz Łączkowski - <a href="https://www.globallogic.com/">Globallogic</a></h3>
 <p>“O znaczeniu słów słów kilka”
 Co i jak mówić by być słuchanym (i rozumianym) oraz jak słuchać (i rozumieć)
 kiedy mówią.</p>
@@ -214,21 +332,21 @@ kiedy mówią.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/USrF0eYpEMg" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<h3 id="mariusz-wiktorczyk---consileonhttpsconsileonpl">Mariusz Wiktorczyk - <a href="https://consileon.pl/">Consileon</a></h3>
+<h3 id="mariusz-wiktorczyk---consileon">Mariusz Wiktorczyk - <a href="https://consileon.pl/">Consileon</a></h3>
 <p>„Koniec ery zwykłych klepaczy kodu! Co dzisiaj jest ważne w pracy programisty”</p>
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QpQdzyQbF-A" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<h3 id="marcin-kawelski---remoteemehttpremoteeme">Marcin Kawelski - <a href="http://remotee.me">remotee.me</a></h3>
+<h3 id="marcin-kawelski---remoteeme">Marcin Kawelski - <a href="http://remotee.me">remotee.me</a></h3>
 <p>“Jak być dobrym programistą”</p>
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzifGa2dDTg" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<h3 id="dzikujemy-i-zapraszamy-na-kolejne-spotkania-szczecin-jug">Dziękujemy i zapraszamy na kolejne spotkania Szczecin JUG!</h3>
+<h3 id="dziękujemy-i-zapraszamy-na-kolejne-spotkania-szczecin-jug">Dziękujemy i zapraszamy na kolejne spotkania Szczecin JUG!</h3>
 
 ]]></description>
     </item>
@@ -256,15 +374,15 @@ kiedy mówią.</p>
 
 <h2 id="prelegenci-i-tematy">Prelegenci i tematy</h2>
 
-<h3 id="tomasz-czkowski---globallogichttpswwwgloballogiccom">Tomasz Łączkowski - <a href="https://www.globallogic.com/">Globallogic</a></h3>
+<h3 id="tomasz-łączkowski---globallogic">Tomasz Łączkowski - <a href="https://www.globallogic.com/">Globallogic</a></h3>
 <p>“O znaczeniu słów słów kilka”
 Co i jak mówić by być słuchanym (i rozumianym) oraz jak słuchać (i rozumieć)
 kiedy mówią.</p>
 
-<h3 id="mariusz-wiktorczyk---consileonhttpsconsileonpl">Mariusz Wiktorczyk - <a href="https://consileon.pl/">Consileon</a></h3>
+<h3 id="mariusz-wiktorczyk---consileon">Mariusz Wiktorczyk - <a href="https://consileon.pl/">Consileon</a></h3>
 <p>„Koniec ery zwykłych klepaczy kodu! Co dzisiaj jest ważne w pracy programisty”</p>
 
-<h3 id="marcin-kawelski---remoteemehttpremoteeme">Marcin Kawelski - <a href="http://remotee.me">remotee.me</a></h3>
+<h3 id="marcin-kawelski---remoteeme">Marcin Kawelski - <a href="http://remotee.me">remotee.me</a></h3>
 <p>“Jak być dobrym programistą”</p>
 
 <h2 id="sponsorzy">Sponsorzy</h2>
@@ -350,12 +468,12 @@ zasadę działania starter pomów i autokonfiguracji, oraz stworzyłem prostą a
 
 <p>Po spotkaniu, jak zawsze rozesłaliśmy ankietę, od teraz będziemy dzielić się z Wami wynikami.</p>
 
-<p>Ankietę wypełniło 12 osób - którym bardzo dziękujemy. </p>
+<p>Ankietę wypełniło 12 osób - którym bardzo dziękujemy.</p>
 
 <p><img src="/images/dropwizard-ankieta1.png" alt="Ankieta" />
 <img src="/images/dropwizard-ankieta2.png" alt="Ankieta" /></p>
 
-<h3 id="co-powinnimy-zrobic-lepiej">Co powinniśmy zrobic lepiej?</h3>
+<h3 id="co-powinniśmy-zrobic-lepiej">Co powinniśmy zrobic lepiej?</h3>
 
 <blockquote>
   <p>“Byle nie w poniedziałki…”</p>
@@ -519,10 +637,10 @@ jak i zagadnieniom związanym z aplikowaniem na stanowiska IT, oraz skorzystać 
 
 <ul>
   <li>Prezentacje firm i ofert największych pracodawców w regionie, między innymi <strong>Capgemini</strong>, <strong>Mobica</strong>, <strong>RayNet</strong>,
-<strong>Accenture</strong>, <strong>BLStream</strong>, <strong>REC Global</strong> </li>
+<strong>Accenture</strong>, <strong>BLStream</strong>, <strong>REC Global</strong></li>
   <li>Porady specjalistów z dziedziny kształtowania wizerunku i autoprezentacji, doradztwo zawodowe</li>
-  <li>Pokaz ciekawych rozwiązań technologicznych </li>
-  <li>Konkursy z nagrodami </li>
+  <li>Pokaz ciekawych rozwiązań technologicznych</li>
+  <li>Konkursy z nagrodami</li>
   <li>Poczęstunek, pizza, materiały targowe</li>
 </ul>
 
@@ -540,7 +658,7 @@ jak i zagadnieniom związanym z aplikowaniem na stanowiska IT, oraz skorzystać 
 
 <ul>
   <li>Infrastruktura jako usługa – serwery Linux w chmurze Microsoft Azure (Michał Smereczyński)</li>
-  <li>Sztuka zaprezentowania się na rozmowie kwalifikacyjnej (Elżbieta Stelmach) </li>
+  <li>Sztuka zaprezentowania się na rozmowie kwalifikacyjnej (Elżbieta Stelmach)</li>
 </ul>
 
 <p>Więcej informacji oraz darmowa rejestracja: <a href="http://careercon.pl/konferencja/kariera-it-szczecin-13-06-2015/">http://careercon.pl/konferencja/kariera-it-szczecin-13-06-2015/</a></p>
@@ -571,10 +689,10 @@ znać. Być może chcielibyście się właśnie czegoś dowiedzieć o danym zag
 Jeśli natomiast masz rozległą wiedzę w jakimś obszarze i chciałbyś się nią podzielic - to również dobry powód :)</p>
 
 <p>Więcej o takiej formule spotkania
-<a href="https://www.youtube.com/watch?v=aD3S0wlbek0">tutaj</a>.  </p>
+<a href="https://www.youtube.com/watch?v=aD3S0wlbek0">tutaj</a>.</p>
 
 <p>Naszymi partnerami są <a href="http://klaster.it/pl/">klaster.it</a> oraz 
-<a href="http://www.technopark-pomerania.pl/pl/">Technopark Pomerania</a>, które użyczają nam sali na spotkanie. </p>
+<a href="http://www.technopark-pomerania.pl/pl/">Technopark Pomerania</a>, które użyczają nam sali na spotkanie.</p>
 
 <p>Dzięki sponsorowi, firmie <a href="http://www.ncdc.eu/">NCDC</a>, będziemy mieli dla Was dwie książki, które rozlosujemy wśród uczestników. 
 Natomiast od firmy <a href="https://www.jetbrains.com/">JetBrains</a> mamy licencję na dowolny produkt tej firmy 
@@ -596,14 +714,14 @@ Natomiast od firmy <a href="https://www.jetbrains.com/">JetBrains</a> mamy licen
 	<img src="/images/technopark-bud-f2.png" />
 </div>
 
-<h2 id="sponsorzy">Sponsorzy</h2>
+<p>##Sponsorzy</p>
 
 <div style="text-align: center">
 	<a href="http://jetbrains.com"><img src="/images/sponsors/logo_jetbrains.png" /></a>
 	<a href="http://www.ncdc.eu/"><img src="/images/sponsors/NCDC_logo.png" /></a>
 </div>
 
-<h2 id="partnerzy">Partnerzy</h2>
+<p>##Partnerzy</p>
 <div style="text-align: center">
 	<a href="http://klaster.it/pl/"><img class="sponsor-logo" src="/images/partners/klaster_logo.png" /></a>
 	<a href="http://www.technopark-pomerania.pl/pl/"><img class="sponsor-logo" src="/images/partners/tp_short.png" /></a>
@@ -756,7 +874,7 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
 
 <p>Konferencja obraca się wokół tematów związanych z Javą, ale niejednokrotnie pojawiały się prelekcje z dziedziny Front-endu, testowania i automatyzacji czy też UX.
 Aktualnie zbierane są <strong>zgłoszenia tematów</strong>. Jeżeli masz pomysł na prezentacje i chciałbyś ją przedstawić napisz już dziś.
-<strong>Zgłoszenia prosimy wysyłać na adres <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#052;&#112;&#064;&#100;&#101;&#118;&#099;&#114;&#111;&#119;&#100;&#046;&#112;&#108;">&#099;&#052;&#112;&#064;&#100;&#101;&#118;&#099;&#114;&#111;&#119;&#100;&#046;&#112;&#108;</a> do 1 marca 2015.</strong>
+<strong>Zgłoszenia prosimy wysyłać na adres <a href="mailto:c4p@devcrowd.pl">c4p@devcrowd.pl</a> do 1 marca 2015.</strong>
 Prelegentom zapewniamy dojazd, zakwaterowanie, wyżywienie na czas konferencji, unikalny T-shirt oraz udział w after party.
 Więcej informacji znajdziecie na stronie <a href="http://2015.devcrowd.pl/call4papers/">http://2015.devcrowd.pl/call4papers/</a></p>
 
@@ -816,7 +934,7 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
 
 <p>Nadchodzą święta oraz kolejny rok. Życzę Wam wszystkim abyście spędzili ten czas rodzinnie i wśród przyjaciół. Byście odpoczęli i naładowali się pozytywną energią, tak aby w przyszłym roku działać aktywnie i dzielić się tą energią z kolegami i koleżankami z JUGa :)</p>
 
-<h2 id="wesoych-wit-i-szczliwego-nowego-roku">Wesołych Świąt i Szczęśliwego Nowego Roku!</h2>
+<h2 id="wesołych-świąt-i-szczęśliwego-nowego-roku">Wesołych Świąt i Szczęśliwego Nowego Roku!</h2>
 ]]></description>
     </item>
     
@@ -858,7 +976,7 @@ Poruszone zostaną między innymi tematy:</p>
                  </div>
               </div>
 
-<h2 id="ko--czyli-knockout-w-przegldarce">KO – czyli knockout w przeglądarce</h2>
+<h2 id="ko--czyli-knockout-w-przeglądarce">KO – czyli knockout w przeglądarce</h2>
 <p><a href="http://knockoutjs.com/">Knockout.js</a> – kompletny sposób na nowoczesne UI bez zbędnego wysiłku. To co tygryski lubią najbardziej:</p>
 
 <ul>
@@ -880,7 +998,7 @@ Poruszone zostaną między innymi tematy:</p>
                  </div>
               </div>
 
-<h2 id="szczegy-spotkania">Szczegóły spotkania</h2>
+<h2 id="szczegóły-spotkania">Szczegóły spotkania</h2>
 
 <dl>
 	<dt>Data:</dt><dd>17.12.2014 (Środa)</dd>
@@ -901,11 +1019,11 @@ Serdecznie Wszystkich Zapraszamy!</p>
     
     <item>
       <title>Web components – welcome to the future</title>
-      <link>http://szczecin-jug.github.io/2014/10/28/web-components%E2%80%93welcome-to-the-future/</link>
+      <link>http://szczecin-jug.github.io/2014/10/28/web-components-welcome-to-the-future/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://szczecin-jug.github.io/2014/10/28/web-components–welcome-to-the-future</guid>
-      <description><![CDATA[<h2 id="kilka-sw-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
+      <description><![CDATA[<h2 id="kilka-słów-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
 <p>Web Components to zasadnicza zmiana sposobu programowania aplikacji
 internetowych. Oferują nam one narzędzia, które są potrzebne aby
 uczynić pracę developera bardziej produktywną oraz dają dostęp do
@@ -924,7 +1042,7 @@ internetowych.</p>
                  </div>
               </div>
 
-<h2 id="szczegy-spotkania">Szczegóły spotkania</h2>
+<h2 id="szczegóły-spotkania">Szczegóły spotkania</h2>
 
 <dl>
 	<dt>Data:</dt><dd>6.11.2014 (Czwartek)</dd>
