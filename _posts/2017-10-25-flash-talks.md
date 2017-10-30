@@ -37,13 +37,13 @@ Dzieki sponsorowi oprócz możliwości organizacji spotkania będzie drobny pocz
 
 ### Paweł Żal - "Moje boje z monitorowaniem sieci 100K urządzeń"
 
-O tym jak zbudować system oparty o Time Series Database.
+Czyli o tym jak zbudować system oparty o Time Series Database
 
-Krótka opowieść o doświadczeniach zebranych przy budowaniu systemu do monitorowania sieci 100K+ urządzeń, opartego o komponenty open source. Opowiem o tym jak bazy do obsługi szeregów czasowych odpowiadają na zagadnienia związane z BigData. 
+Krótka opowieść o doświadczeniach zebranych podczas budowania systemu do monitorowania sieci 100K+ urządzeń, opartego o komponenty open source. Opowiem o tym jak bazy do obsługi szeregów czasowych odpowiadają na zagadnienia związane z BigData.
 
 #### O prelegencie
 
-Pilot oblatywacz w Icotera.com. Zacząłem pracę jako inżynier QA, potem zacząłem programować i projektować systemy. Obecnie pracuję nad systemami nadzorującymi urządzenia sieciowe i pozwalające wykrywać problemy i zagrożenia zanim zadzwonić użytkownik końcowy.
+Pilot oblatywacz w [Icotera.com](https://icotera.com/). Zacząłem pracę jako inżynier QA, obecnie programuję i projektuję systemy. Pracuję nad systemami nadzorującymi urządzenia sieciowe i pozwalające wykrywać problemy i zagrożenia zanim zadzwoni użytkownik końcowy.
 
 ***
   
