@@ -88,16 +88,6 @@ Krótka opowieść o tym, jakich narzędzi użyć i jakich bibliotek, aby w jak 
 
 ***
 
-### Grzegorz Adamowicz - Gra w chmurki - przyszłość inżynierii oprogramowania
-
-Szybkie spojrzenie w architektury aplikacji i trendy rozwoju dzisiaj. Płynne przejście w to, co moze nas spotkać w przyszłości i włożenie kija w mrowisko domysłów.
-
-#### O prelegencie
-
- Inżynier systemów (czyli admin) i samozwańczy architekt aplikacji w chmurze. Posiada doświadczenie pracy w małych firmach (startupach), jak i dużych korporacjach. Fan automatyzacji i zaawansowanego monitoringu aplikacji. Autor wielu artykułów w gazecie drukowanej. Pisuje również opowiadania fantasy i fantastyczno-naukowe. Interesuje go całościowe podejście do biznesu: od operacji (IT), przez finanse, po marketing i sprzedaż.
-
-***
-
 # Rejestracja
 
 [Meetup](https://www.meetup.com/Szczecin-Java-Users-Group/)
