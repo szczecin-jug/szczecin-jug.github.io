@@ -11,7 +11,7 @@ author:
   image: kawelski.jpg
 ---
 
-![FlashTalks]({{ site.base_url }}/images/JUG-8-11-2017-Flash-Talks.png "Szczecin JUG Flash Talks")
+![FlashTalks]({{ site.base_url }}/images/JUG-8-11-2017-Flash-Talks.jpg "Szczecin JUG Flash Talks")
 
 **Szczecin JUG** zaprasza na spotkanie o nietypowej formie. **Flash Talks** to prelekcje, w których prezenterzy mają jedynie 15 minut by przekazać możliwie największą porcję wiedzy. Taka forma prezentacji jest wymagająca od prelegenta, ale bardzo ciekawa dla uczestników prelekcji.
 
