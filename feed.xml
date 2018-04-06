@@ -6,9 +6,84 @@
     <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 02 Nov 2017 11:10:40 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2017 11:10:40 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Apr 2018 19:01:41 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Apr 2018 19:01:41 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Szczecin JUG - spotkanie wiosenne</title>
+      <link>http://szczecin-jug.github.io/2018/04/05/aprill-jug/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://szczecin-jug.github.io/2018/04/05/aprill-jug</guid>
+      <description><![CDATA[<p><img src="/images/JUG_2018-04-05.jpg" alt="FlashTalks" title="Szczecin JUG - spotkanie wiosenne" /></p>
+
+<p><strong>Szczecin JUG</strong> wraz z firmą <strong>PSI</strong> zaprasza na kwietnowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: <strong>Kubę Marchwickiego</strong> o nowinkach w <strong>Java 9</strong> oraz <strong>Pawła Zala</strong> o <strong>Time Series Databases</strong> oraz ich zastosowaniu w świecie IoT.</p>
+
+<p>Spotkanie odbędzie się <strong>w środę 18 kwietnia o godzinie 18:00 w Technopark Pomerania</strong>. Jak zwykle spotkanie jest <strong>nieodpłatne</strong>, ale zachęcamy do rejestracji na naszej stronie <a href="https://www.meetup.com/Szczecin-Java-Users-Group/">meetup</a>.</p>
+
+<hr />
+
+<h1 id="sponsor">Sponsor</h1>
+
+<p>Sponsorem spotkanania jest firma</p>
+
+<div style="text-align: center">
+<a href="http://www.psi.pl/"><img style="max-width: 500px" src="/images/sponsors/logo_psi.png" /></a>
+</div>
+
+<p>Dzieki sponsorowi oprócz możliwości organizacji spotkania będzie drobny poczęstunek oraz <strong>konkurs z nagrodami</strong>.</p>
+
+<hr />
+
+<h1 id="prelekcje">Prelekcje</h1>
+
+<hr />
+
+<h3 id="jakub-marchwicki---zapomnij-o-debuggerze---radość-i-produktywnośc-programisty">Jakub Marchwicki - “Zapomnij o debuggerze - radość i produktywnośc programisty”</h3>
+
+<p>Oj, Java, mój stary, leniwy, barokowy przyjacielu. Przez lata, chcąc spróbować czegoś nowego (co na szczęście nie było zbyt częste), tworzyliśmy nowy projekt, klasa <em>Sandbox</em>, metoda <em>public static void main;</em> alternatywnie jakiś teścik JUnit. Szczęśliwie czasy się zmieniły. Wraz z Javą9 przychodzi JShell - REPL. Nowy sposób na wypróbowanie nowych idiomów, nowego API, bibliotek. Teraz możemy być trochę jak Scala, Clojure, Ruby, JavaScript, PHP, niemalże każdy inny język - woohoo!W tej prezentacji przejdę przed podstawowe przykłady działania REPLa, jak możemy używać JShella aby wypróbować nowego API, nowych elementów języka (jak np. HttpClient lub dodatki w obsłudze strumieni). Nie będziemy jednak budować aplikacji <em>Hello World</em>. Wykorzystamy REPLa aby zbudować kompletną aplikacje webową albo zobaczyć co nowego w Springu 5.0. Samo mięsa, żadnych diagramów lub przykładów z <em>javax.swing.*</em></p>
+
+<h4 id="o-prelegencie">O prelegencie</h4>
+
+<p>Jakub Marchwicki - programista od kilkunastu lat, architekt od kilku, analityk czasami, konsultant jak trzeba, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider Java User Group w Gdańsku - jest spora szansa, że nic z tego nie robię dobrze. Ale próbuje… i wyciągam wnioski z porażek</p>
+
+<hr />
+
+<h3 id="paweł-zal---time-series-databases-czyli-bazy-danych-szeregów-czasowych">Paweł Zal - “Time Series Databases czyli bazy danych szeregów czasowych.”</h3>
+
+<p>Czyli, do czego służą i dlaczego świat IoT docenił ich właściwości?</p>
+
+<h4 id="o-prelegencie-1">O prelegencie</h4>
+
+<p>Pilot oblatywacz w <a href="https://icotera.com/">Icotera.com</a>. Zacząłem pracę jako inżynier QA, obecnie programuję i projektuję systemy. Pracuję nad systemami nadzorującymi urządzenia sieciowe i pozwalające wykrywać problemy i zagrożenia zanim zadzwoni użytkownik końcowy.</p>
+
+<hr />
+
+<h1 id="rejestracja">Rejestracja</h1>
+
+<p><a href="https://www.meetup.com/Szczecin-Java-Users-Group/">Meetup</a></p>
+
+<h1 id="lokalizacja">Lokalizacja</h1>
+<p>Dzień: <strong>18 kwietnia</strong></p>
+
+<p>Godzina: <strong>18:00</strong></p>
+
+<p>Miejsce: <strong>Technopark Pomerania, Budynek F2, Sala 0.13 “Talia”, ulica Cyfrowej 4 w Szczecinie.</strong></p>
+
+<div style="text-align: center">
+	<img style="width: 700px" src="/images/technopark-bud-f2.png" />
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.0313419445138!2d14.534005216059274!3d53.45002598000088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47aa095010ddeac3%3A0x77358a1f557f82b9!2sTechnopark+Pomerania+-+Szczeci%C5%84ski+Park+Naukowo+-+Technologiczny!5e0!3m2!1sen!2spl!4v1509120094006" width="700" height="550" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</div>
+
+<hr />
+
+<h2 id="do-zobaczenia">DO ZOBACZENIA!</h2>
+
+]]></description>
+    </item>
+    
     
     
     <item>
