@@ -13,7 +13,7 @@ author:
 
 ![FlashTalks]({{ site.base_url }}/images/JUG_2018-04-05.jpg "Szczecin JUG - spotkanie wiosenne")
 
-**Szczecin JUG** wraz z firmą **PSI** zaprasza na kwietnowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: **Kubę Marchwickiego** o nowinkach w **Java 9** oraz **Pawła Zala** o **Time Series Databases** oraz ich zastosowaniu w świecie IoT.
+**Szczecin JUG** wraz z firmą **PSI** zaprasza na kwietniowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: **Kubę Marchwickiego** o nowinkach w **Java 9** oraz **Pawła Zala** o **Time Series Databases** oraz ich zastosowaniu w świecie IoT.
 
 Spotkanie odbędzie się **w środę 18 kwietnia o godzinie 18:00 w Technopark Pomerania**. Jak zwykle spotkanie jest **nieodpłatne**, ale zachęcamy do rejestracji na naszej stronie [meetup](https://www.meetup.com/Szczecin-Java-Users-Group/).
 
@@ -21,13 +21,13 @@ Spotkanie odbędzie się **w środę 18 kwietnia o godzinie 18:00 w Technopark 
 
 # Sponsor
 
-Sponsorem spotkanania jest firma
+Sponsorem spotkania jest firma
 
 <div style="text-align: center">
 <a href="http://www.psi.pl/"><img style="max-width: 500px" src="{{ site.base_url }}/images/sponsors/logo_psi.png"></a>
 </div>
 
-Dzieki sponsorowi oprócz możliwości organizacji spotkania będzie drobny poczęstunek oraz **konkurs z nagrodami**.
+Dzieki sponsorowi, oprócz możliwości organizacji spotkania będzie drobny poczęstunek oraz **konkurs z nagrodami**.
 
 ***
 
