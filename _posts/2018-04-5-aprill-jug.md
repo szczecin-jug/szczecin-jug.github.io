@@ -13,7 +13,7 @@ author:
 
 ![FlashTalks]({{ site.base_url }}/images/JUG_2018-04-05.jpg "Szczecin JUG - spotkanie wiosenne")
 
-**Szczecin JUG** wraz z firmą **PSI** zaprasza na kwietniowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: **Kubę Marchwickiego** o nowinkach w **Java 9** oraz **Pawła Zala** o **Time Series Databases** oraz ich zastosowaniu w świecie IoT.
+**Szczecin JUG** wraz z firmą **PSI** zaprasza na kwietniowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: **Kubę Marchwickiego** o nowinkach w **Java 9** oraz **Pawła Żala** o **Time Series Databases** oraz ich zastosowaniu w świecie IoT.
 
 Spotkanie odbędzie się **w środę 18 kwietnia o godzinie 18:00 w Technopark Pomerania**. Jak zwykle spotkanie jest **nieodpłatne**, ale zachęcamy do rejestracji na naszej stronie [meetup](https://www.meetup.com/Szczecin-Java-Users-Group/).
 
@@ -45,7 +45,7 @@ Jakub Marchwicki - programista od kilkunastu lat, architekt od kilku, analityk c
 
 ***
 
-### Paweł Zal - "Time Series Databases czyli bazy danych szeregów czasowych."
+### Paweł Żal - "Time Series Databases czyli bazy danych szeregów czasowych."
 
 Czyli, do czego służą i dlaczego świat IoT docenił ich właściwości?
 
