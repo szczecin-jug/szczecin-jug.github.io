@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://0.0.0.0:4000</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://szczecin-jug.github.io</link>
+    <atom:link href="http://szczecin-jug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 15 Apr 2018 11:19:04 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Apr 2018 11:19:04 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Nov 2019 10:18:06 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Nov 2019 10:18:06 +0000</lastBuildDate>
 
     
     
     <item>
       <title>Szczecin JUG - spotkanie wiosenne</title>
-      <link>http://0.0.0.0:4000/2018/04/05/aprill-jug/</link>
+      <link>http://szczecin-jug.github.io/2018/04/05/aprill-jug/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2018/04/05/aprill-jug</guid>
+      <guid>http://szczecin-jug.github.io/2018/04/05/aprill-jug</guid>
       <description><![CDATA[<p><img src="/images/JUG_2018-04-05.jpg" alt="FlashTalks" title="Szczecin JUG - spotkanie wiosenne" /></p>
 
 <p><strong>Szczecin JUG</strong> wraz z firmą <strong>PSI</strong> zaprasza na kwietniowe spotkanie. Tym razem wysłuchamy dwóch prelegentów: <strong>Kubę Marchwickiego</strong> o nowinkach w <strong>Java 9</strong> oraz <strong>Pawła Żala</strong> o <strong>Time Series Databases</strong> oraz ich zastosowaniu w świecie IoT.</p>
@@ -88,10 +88,10 @@
     
     <item>
       <title>Szczecin JUG Flash Talks</title>
-      <link>http://0.0.0.0:4000/2017/10/25/flash-talks/</link>
+      <link>http://szczecin-jug.github.io/2017/10/25/flash-talks/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2017/10/25/flash-talks</guid>
+      <guid>http://szczecin-jug.github.io/2017/10/25/flash-talks</guid>
       <description><![CDATA[<p><img src="/images/JUG-8-11-2017-Flash-Talks.jpg" alt="FlashTalks" title="Szczecin JUG Flash Talks" /></p>
 
 <p><strong>Szczecin JUG</strong> zaprasza na spotkanie o nietypowej formie. <strong>Flash Talks</strong> to prelekcje, w których prezenterzy mają jedynie 15 minut by przekazać możliwie największą porcję wiedzy. Taka forma prezentacji jest wymagająca od prelegenta, ale bardzo ciekawa dla uczestników prelekcji.</p>
@@ -196,10 +196,10 @@ zmienianiać swoie nawyki.</p>
     
     <item>
       <title>Microservices tracing with Spring Cloud Sleuth and Zipkin</title>
-      <link>http://0.0.0.0:4000/2017/02/25/microservices/</link>
+      <link>http://szczecin-jug.github.io/2017/02/25/microservices/</link>
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2017/02/25/microservices</guid>
+      <guid>http://szczecin-jug.github.io/2017/02/25/microservices</guid>
       <description><![CDATA[<p><img src="/images/JUG-15-03-2017-page.jpg" alt="Spotkanie Noworoczne" title="Microservices tracing with Spring Cloud Sleuth and Zipkin" /></p>
 
 <p><strong>Szczecin JUG</strong> wraz z firmą <strong>PSI</strong> zapraszają na kolejne spotkanie naszej grupy, które odbędzie się <strong>15 marca o godzinie 18 w klubie Hormon Cafe</strong>. Jak zwykle spotkanie jest nieodpłatne, ale zachęcamy do rejestracji na naszej stronie <a href="https://www.meetup.com/Szczecin-Java-Users-Group/">meetup</a>.
@@ -254,10 +254,10 @@ Poniżej szczegóły spotkania.</p>
     
     <item>
       <title>Spotkanie Noworoczne - prezentacje</title>
-      <link>http://0.0.0.0:4000/2017/02/07/krzysiek_lukasz_prezentacje/</link>
+      <link>http://szczecin-jug.github.io/2017/02/07/krzysiek_lukasz_prezentacje/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2017/02/07/krzysiek_lukasz_prezentacje</guid>
+      <guid>http://szczecin-jug.github.io/2017/02/07/krzysiek_lukasz_prezentacje</guid>
       <description><![CDATA[<p><img src="/images/spotkanie_noworoczne.jpg" alt="Spotkanie Noworoczne" title="Spotkanie noworoczne" /></p>
 
 <p>25 stycznia w klubie Hormon Cafe odbyło się kolejne spotkanie Szczecin JUG. Przybyło <strong><em>ponad 60 uczestników</em></strong>. Tym razem zaproponowaliśmy dwie różne, ale bardzo ciekawe prezentacje: <strong>“From rest to lambda architecture and beyond!”</strong> oraz <strong>“Świeżym okiem na Dockera - dlaczego warto?”</strong>. A teraz można zobaczyć nagrania z tych prezentacji.</p>
@@ -295,10 +295,10 @@ Zostały tekże rozdane dwa kupony na bezpłatne wejście na konferencję <a hre
     
     <item>
       <title>Spotkanie Noworoczne</title>
-      <link>http://0.0.0.0:4000/2017/01/10/closure-and-docker/</link>
+      <link>http://szczecin-jug.github.io/2017/01/10/closure-and-docker/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2017/01/10/closure-and-docker</guid>
+      <guid>http://szczecin-jug.github.io/2017/01/10/closure-and-docker</guid>
       <description><![CDATA[<p><img src="/images/spotkanie_noworoczne.jpg" alt="Spotkanie Noworoczne" title="Spotkanie noworoczne" /></p>
 
 <p><strong>25 stycznia o godzinie 18 w klubie Hormon Cafe</strong> odbędzie się kolejne spotkanie Szczecin JUG. Tym razem proponujemy dwie różne, ale bardzo ciekawe prezentacje: <strong>“From rest to lambda architecture and beyond!”</strong> oraz <strong>“Świeżym okiem na Dockera - dlaczego warto?”</strong>.</p>
@@ -365,10 +365,10 @@ Zostały tekże rozdane dwa kupony na bezpłatne wejście na konferencję <a hre
     
     <item>
       <title>Podsumowanie spotkania i prezentacje - O IT "na miękko"</title>
-      <link>http://0.0.0.0:4000/2016/10/03/umiejetnosci-miekkie-prezentacje/</link>
+      <link>http://szczecin-jug.github.io/2016/10/03/umiejetnosci-miekkie-prezentacje/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2016/10/03/umiejetnosci-miekkie-prezentacje</guid>
+      <guid>http://szczecin-jug.github.io/2016/10/03/umiejetnosci-miekkie-prezentacje</guid>
       <description><![CDATA[<p><img src="/images/it_na_miekko.png" alt="IT na miękko" title="IT na miękko" /></p>
 
 <p>Dziękujemy wszystkim za przybycie i aktywność na spotkaniu. Było nas ponad <strong><em>80 osób</em></strong> co znacznie przekroczyło nasze oczekiwania!</p>
@@ -420,10 +420,10 @@ kiedy mówią.</p>
     
     <item>
       <title>O IT "na miękko"</title>
-      <link>http://0.0.0.0:4000/2016/09/04/umiejetnosci-miekkie-programisty/</link>
+      <link>http://szczecin-jug.github.io/2016/09/04/umiejetnosci-miekkie-programisty/</link>
       <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2016/09/04/umiejetnosci-miekkie-programisty</guid>
+      <guid>http://szczecin-jug.github.io/2016/09/04/umiejetnosci-miekkie-programisty</guid>
       <description><![CDATA[<p><img src="/images/it_na_miekko.png" alt="IT na miękko" title="IT na miękko" /></p>
 
 <p>15 września o godzinie 18 w klubie Hormon Cafe odbędzie się spotkanie Szczecin JUG, gdzie doświadczeni prelegenci ze znanych szczecińskich firm opowiedzą jakie umiejętności, oprócz tych technicznych, powinien poznać programista.</p>
@@ -489,10 +489,10 @@ kiedy mówią.</p>
     
     <item>
       <title>Podsumowanie spotkania o Dropwizard &amp; Spring Boot</title>
-      <link>http://0.0.0.0:4000/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot/</link>
+      <link>http://szczecin-jug.github.io/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot/</link>
       <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot</guid>
+      <guid>http://szczecin-jug.github.io/2015/10/31/podsumowanie-spotkania-dropwizard-spring-boot</guid>
       <description><![CDATA[<p>Minął prawie tydzień od spotkania <strong>“Dropwizard &amp; Spring Boot”</strong>, wszyscy zdążyli już ochłonąć ;-) zatem czas na krótkie podsumowanie i kilka wniosków.</p>
 
 <p>Na spotkaniu było blisko 40 osób, pojawiło się dość sporo nowych twarzy,
@@ -591,10 +591,10 @@ Jeśli ktoś z Was dysponuje sprzętem i umiejętnościami, zapraszamy do wspó�
     
     <item>
       <title>Spotkanie o Dropwizard &amp; Spring Boot</title>
-      <link>http://0.0.0.0:4000/2015/10/19/spotkanie-dropwizard-spring-boot/</link>
+      <link>http://szczecin-jug.github.io/2015/10/19/spotkanie-dropwizard-spring-boot/</link>
       <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/10/19/spotkanie-dropwizard-spring-boot</guid>
+      <guid>http://szczecin-jug.github.io/2015/10/19/spotkanie-dropwizard-spring-boot</guid>
       <description><![CDATA[<p><img src="/images/dropwizard-springboot.png" alt="Dropwizard &amp; Spring Boot" title="Spotkanie o Dropwizard i Spring Boot" /></p>
 
 <p>26 października odbędzie się spotkanie <strong>Szczecin JUG</strong>, na którym przedstawione zostaną dwa rozwiązania w Javie alternatywne dla 
@@ -683,10 +683,10 @@ Aplikacje BLStream działają na ponad 100 milionach urządzeń przenośnych na 
     
     <item>
       <title>Targi KARIERA IT</title>
-      <link>http://0.0.0.0:4000/2015/06/11/kariera-it/</link>
+      <link>http://szczecin-jug.github.io/2015/06/11/kariera-it/</link>
       <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/06/11/kariera-it</guid>
+      <guid>http://szczecin-jug.github.io/2015/06/11/kariera-it</guid>
       <description><![CDATA[<p><img src="/images/karierait.jpg" alt="KARIERA IT" title="KARIERA IT" /></p>
 
 <p>Już wkrótce – <strong>13.06.2015</strong> odbędzie się kolejna edycja największych targów pracy dla specjalistów branży IT - <strong>KARIERA IT</strong>, 
@@ -736,10 +736,10 @@ jak i zagadnieniom związanym z aplikowaniem na stanowiska IT, oraz skorzystać 
     
     <item>
       <title>Unconference (Open Spaces) - Porozmawiajmy</title>
-      <link>http://0.0.0.0:4000/2015/05/11/unconference/</link>
+      <link>http://szczecin-jug.github.io/2015/05/11/unconference/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/05/11/unconference</guid>
+      <guid>http://szczecin-jug.github.io/2015/05/11/unconference</guid>
       <description><![CDATA[<p>Zapraszamy na kolejne spotkanie Szczecin JUG! Tym razem odbędzie się ono w formie Unconference, zwanej też Open Spaces.</p>
 
 <p>Na czym polega Unconference? Na luźnych rozmowach o… o czym będziemy chcieli :) 
@@ -798,10 +798,10 @@ Natomiast od firmy <a href="https://www.jetbrains.com/">JetBrains</a> mamy licen
     
     <item>
       <title>Mamy dla Was licencje na Intellij IDEA!</title>
-      <link>http://0.0.0.0:4000/2015/05/01/licencja-na-intellij-idea/</link>
+      <link>http://szczecin-jug.github.io/2015/05/01/licencja-na-intellij-idea/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/05/01/licencja-na-intellij-idea</guid>
+      <guid>http://szczecin-jug.github.io/2015/05/01/licencja-na-intellij-idea</guid>
       <description><![CDATA[<p>Miło nam poinformować, że do grona naszych sponsorów dołączyła firma JetBrains, producent środowiska IntelliJ IDEA.</p>
 
 <p>Dzięki ich uprzejmości, na każdym spotkaniu będziemy mieli dla Was do rozlosowania licencję na to środowisko. 
@@ -821,10 +821,10 @@ jak i komercyjnych. Bez ograniczeń.</p>
     
     <item>
       <title>Szczecin.scala - Scala, Play2, Akka!</title>
-      <link>http://0.0.0.0:4000/2015/02/26/szczecin-scala/</link>
+      <link>http://szczecin-jug.github.io/2015/02/26/szczecin-scala/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/02/26/szczecin-scala</guid>
+      <guid>http://szczecin-jug.github.io/2015/02/26/szczecin-scala</guid>
       <description><![CDATA[<p><img src="/images/meetscala.jpg" alt="Szczecin.scala" title="Szczecin.scala" /></p>
 
 <p>W marcu zamiast klasycznego, godzinnego spotkania przygotowaliśmy wieczór z językiem <strong><a href="http://www.scala-lang.org/">Scala</a></strong> -  <strong>Szczecin.scala</strong>.</p>
@@ -927,10 +927,10 @@ którzy o Scali tylko słyszeli, jak i bardziej doświadczonych zgłębiających
     
     <item>
       <title>DevCrowd 2015 Call For Papers</title>
-      <link>http://0.0.0.0:4000/2015/02/10/c4p-devcrowd-2015/</link>
+      <link>http://szczecin-jug.github.io/2015/02/10/c4p-devcrowd-2015/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/02/10/c4p-devcrowd-2015</guid>
+      <guid>http://szczecin-jug.github.io/2015/02/10/c4p-devcrowd-2015</guid>
       <description><![CDATA[<p>Konferencja <a href="http://2015.devcrowd.pl/">DevCrowd 2015</a> odbędzie się już 18 kwietnia 2015r w kompleksie <a href="http://www.wi.zut.edu.pl/">Wydziału Informatyki Zachodniopomorskiego Uniwersytetu Technologicznego</a>.</p>
 
 <p>Jak zawsze konferencja jest bezpłatna i otwarta dla wszystkich.</p>
@@ -955,10 +955,10 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
     
     <item>
       <title>Polecamy konferencje GeeCon TDD</title>
-      <link>http://0.0.0.0:4000/2015/01/11/polecamy-konferencje-geecon-tdd/</link>
+      <link>http://szczecin-jug.github.io/2015/01/11/polecamy-konferencje-geecon-tdd/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2015/01/11/polecamy-konferencje-geecon-tdd</guid>
+      <guid>http://szczecin-jug.github.io/2015/01/11/polecamy-konferencje-geecon-tdd</guid>
       <description><![CDATA[<p><img class="float-left" src="http://old.szjug.pl/wp-content/uploads/2015/01/geecon-tdd-2015.png" /></p>
 
 <p>Konferencja odbędzie się już 30 stycznia 2015r. Zapraszamy wszystkich zainteresowanych tematyką testów, jakości w procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych a w szczególności Test Driven Development!</p>
@@ -979,10 +979,10 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
     
     <item>
       <title>Koniec roku 2014</title>
-      <link>http://0.0.0.0:4000/2014/12/24/podsumowanie-2014/</link>
+      <link>http://szczecin-jug.github.io/2014/12/24/podsumowanie-2014/</link>
       <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2014/12/24/podsumowanie-2014</guid>
+      <guid>http://szczecin-jug.github.io/2014/12/24/podsumowanie-2014</guid>
       <description><![CDATA[<p><img class="float-left" style="width: 300px" src="http://old.szjug.pl/wp-content/uploads/2014/12/binarna_choinka.jpg" /></p>
 
 <p>Czas na chwile refleksji i podsumowanie. Mam nadzieję, że każdy(a) z was miał(a) w tym roku okazję skorzystać w jakiś sposób z działalności naszej grupy JUG. Jeśli tak, to uważam, że misja naszej organizacji została wypełniona, a to z kolei napawa mnie radością! :)</p>
@@ -1007,10 +1007,10 @@ Zachęcamy do podzielenia się swoimi sugestiami oraz doświadczeniami z poprzed
     
     <item>
       <title>Grudniowe spotkanie – o aplikacjach Spring-owych oraz o knockout.js</title>
-      <link>http://0.0.0.0:4000/2014/12/03/grudniowe-spotkanie-spring-knockoutjs/</link>
+      <link>http://szczecin-jug.github.io/2014/12/03/grudniowe-spotkanie-spring-knockoutjs/</link>
       <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2014/12/03/grudniowe-spotkanie-spring-knockoutjs</guid>
+      <guid>http://szczecin-jug.github.io/2014/12/03/grudniowe-spotkanie-spring-knockoutjs</guid>
       <description><![CDATA[<p>Grudzień, zima, JUG-a się nie ima :) Gorąco zapraszam wszystkich na kolejne spotkanie Szczecin JUG.</p>
 
 <p>Tym razem w planie są 2 prezentacje:</p>
@@ -1084,10 +1084,10 @@ Serdecznie Wszystkich Zapraszamy!</p>
     
     <item>
       <title>Web components – welcome to the future</title>
-      <link>http://0.0.0.0:4000/2014/10/28/web-components-welcome-to-the-future/</link>
+      <link>http://szczecin-jug.github.io/2014/10/28/web-components-welcome-to-the-future/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://0.0.0.0:4000/2014/10/28/web-components–welcome-to-the-future</guid>
+      <guid>http://szczecin-jug.github.io/2014/10/28/web-components–welcome-to-the-future</guid>
       <description><![CDATA[<h2 id="kilka-słów-o-prezentacji-i-prelegencie">Kilka słów o prezentacji i prelegencie:</h2>
 <p>Web Components to zasadnicza zmiana sposobu programowania aplikacji
 internetowych. Oferują nam one narzędzia, które są potrzebne aby
